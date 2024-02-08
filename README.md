@@ -4,7 +4,8 @@
 ![](https://img.shields.io/github/last-commit/zjukg/KG-MM-Survey?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-![Roadmap](figures/roadmap.jpg)
+![Task](figures/task.jpg)
+
 > 🙌 This repository collects papers integrating Knowledge Graphs (KGs) and Multi-Modal Learning, focusing on research in two principal aspects: **KG-driven Multi-Modal (KG4MM) learning**, where KGs support multi-modal tasks, and **Multi-Modal Knowledge Graph (MM4KG)**, which extends KG studies into the MMKG realm.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
@@ -19,7 +20,7 @@
 1. - [ ] `Finish updating papers`
          
 ## 📜 Content
-![Task](figures/task.jpg)
+![Roadmap](figures/roadmap.jpg)
 
 - [KG-MM-Survey](#kg-mm-survey)
   - [🔔 News](#-news)
