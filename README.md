@@ -9,7 +9,11 @@
 > 🙌 This repository collects papers integrating Knowledge Graphs (KGs) and Multi-Modal Learning, focusing on research in two principal aspects: **KG-driven Multi-Modal (KG4MM) learning**, where KGs support multi-modal tasks, and **Multi-Modal Knowledge Graph (MM4KG)**, which extends KG studies into the MMKG realm.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
-
+<details>
+   <summary>👈 🔎 Roadmap </summary>
+   
+![Roadmap](figures/roadmap.jpg)
+</details>
 
 
 
@@ -20,7 +24,7 @@
 1. - [ ] `Finish updating papers`
          
 ## 📜 Content
-![Roadmap](figures/roadmap.jpg)
+
 - [KG-MM-Survey](#kg-mm-survey)
   - [🔔 News](#-news)
   - [📜Content](#-content)
@@ -322,6 +326,19 @@
 </div>
 </details>
 
+- \[[ACM MM 2023](https://arxiv.org/abs/2310.16822)\] Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction.
+- \[[EMNLP 2023](https://arxiv.org/abs/2305.13805)\] Towards Zero-shot Relation Extraction in Web Mining: A Multimodal Approach with Relative XML Path.
+- \[[ACL 2023](https://arxiv.org/abs/2305.16166)\] Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis.
+- \[[arXiv 2023](https://arxiv.org/abs/2304.02328)\] Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck.
+- \[[ACL 2023](https://arxiv.org/abs/2306.11020)\] Dual-Gated Fusion with Prefix-Tuning for Multi-Modal Relation Extraction.
+- \[[ACL 2023](https://arxiv.org/abs/2305.11719)\] Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling.
+- \[[AAAI 2023 (Student Abstract)](https://arxiv.org/abs/2211.07504)\] On Analyzing the Role of Image for Visual-Enhanced Relation Extraction.
+- \[[SIGIR 2022](https://arxiv.org/abs/2205.02357)\] Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion.
+- \[[NAACL 2022](https://arxiv.org/abs/2205.03521)\] Good Visual Guidance Make A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction.
+- \[[EMNLP 2022](https://arxiv.org/abs/2212.01612)\] Named Entity and Relation Extraction with Multi-Modal Retrieval.
+- \[[ACM MM 2021](https://dl.acm.org/doi/abs/10.1145/3474085.3476968)\] Multimodal Relation Extraction with Efficient Graph Alignment.
+- \[[ICME 2021](https://ieeexplore.ieee.org/abstract/document/9428274/)\] MNRE: A Challenge Multimodal Dataset for Neural Relation Extraction with Visual Evidence in Social Media Posts.
+
 #### Multi-modal Event Extraction
 <details>
     <summary>👈 🔎 Benchmarks </summary>
@@ -329,6 +346,20 @@
     <img src="figures/mmeetab.jpg" width="40%" height="auto" />
 </div>
 </details>
+
+##### Image-Text:
+- \[[ACM MM 2023](https://arxiv.org/abs/2306.08966)\] Training Multimedia Event Extraction With Generated Images and Captions.
+- \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548132)\] Multimedia Event Extraction From News With a Unified Contrastive Learning Framework.
+- \[[CVPR 2022](https://arxiv.org/abs/2201.05078)\] CLIP-Event: Connecting Text and Images with Event Structures.
+- \[[ACL 2020](https://arxiv.org/abs/2005.02472)\] Cross-media Structured Common Space for Multimedia Event Extraction.
+
+
+##### Video-Text:
+- \[[FUSION 2023](https://ieeexplore.ieee.org/abstract/document/10224213/)\] Few-shot Domain-Adaptative Visually-fused Event Detection from Text.
+- \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.103/)\] Three Stream Based Multi-level Event Contrastive Learning for Text-Video Event Extraction.
+- \[[DASFAA 2023](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_51)\] Cross-Modal Contrastive Learning for Event Extraction.
+- \[[EMNLP 2021](https://arxiv.org/abs/2109.12776)\] Joint Multimedia Event Extraction from Video and Article.
+
 
 ### MMKG Fusion
 
@@ -370,7 +401,21 @@
 </div>
 </details>
 
-- \[[]()\]  .
+- \[[arXiv 2023](https://arxiv.org/abs/2312.11816)\] A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking.
+- \[[arXiv 2023](https://arxiv.org/abs/2306.12725)\] Generative Multimodal Entity Linking.
+- \[[ACL 2023](https://arxiv.org/abs/2305.17337)\] Benchmarking Diverse-Modal Entity Linking with Generative Models.
+- \[[arXiv 2022](https://arxiv.org/abs/2211.00732)\] Kuaipedia: a Large-scale Multi-modal Short-video Encyclopedia.
+- \[[KDD 2023](https://arxiv.org/abs/2307.09721)\] Multi-Grained Multimodal Interaction Network for Entity Linking.
+- \[[UAI 2023](https://proceedings.mlr.press/v216/yang23d.html)\] MMEL: A Joint Learning Framework for Multi-Mention Entity Linking.
+- \[[CVPR 2022](https://arxiv.org/abs/2111.02387)\] An Empirical Study of Training End-to-End Vision-and-Language Transformers.
+- \[[EMNLP 2022](https://aclanthology.org/2022.findings-emnlp.230/)\] Multimodal Knowledge Learning for Named Entity Disambiguation.
+- \[[SIGIR 2022](https://dl.acm.org/doi/abs/10.1145/3477495.3531867)\] Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training.
+- \[[ICLR 2021](https://arxiv.org/abs/2010.00904)\] Autoregressive Entity Retrieval.
+- \[[NeurIPS 2021](https://arxiv.org/abs/2107.07651)\] Align before Fuse: Vision and Language Representation Learning with Momentum Distillation.
+- \[[ECIR 2020](https://arxiv.org/abs/2104.03236)\] Multimodal Entity Linking for Tweets.
+- \[[EMNLP 2020](https://arxiv.org/abs/1911.03814)\] Scalable Zero-shot Entity Linking with Dense Entity Retrieval.
+- \[[ACL 2018](https://aclanthology.org/P18-1186/)\] Multimodal Named Entity Disambiguation for Noisy Social Media Posts.
+
 
 ### MMKG Inference
 
