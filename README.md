@@ -22,7 +22,7 @@
 - [📜 KG-MM-Survey](#kg-mm-survey)
   - [🔔 News](#-news)
   - [Content](#content)
-  - [KG-driven Multi-modal Learning (KG4MM)](#-kg-driven-multi-modal-learning-kg4mm)
+  - [🤖🌄 KG-driven Multi-modal Learning (KG4MM)](#-kg-driven-multi-modal-learning-kg4mm)
     - [Understanding & Reasoning Tasks](#understanding--reasoning-tasks)
       - [Visual Question Answering](#visual-question-answering)
       - [Visual Question Generation](#visual-question-generation)
@@ -42,7 +42,7 @@
     - [KG-aware Mutli-modal Pre-training](#kg-aware-mutli-modal-pre-training)
       - [Structure Knowledge aware Pre-training](#structure-knowledge-aware-pre-training)
       - [Knowledge Graph aware Pre-training](#knowledge-graph-aware-pre-training)
-  - [Multi-modal Knowledge Graph (MM4KG)](#multi-modal-knowledge-graph-mm4kg)
+  - [🌄🤖 Multi-modal Knowledge Graph (MM4KG)](#-multi-modal-knowledge-graph-mm4kg)
     - [MMKG Resources](#mmkg-resources)
       - [A-MMKG](#a-mmkg)
       - [N-MMKG](#n-mmkg)
@@ -70,7 +70,7 @@
 
 ---
 
-## 🤖 KG-driven Multi-modal Learning (KG4MM)
+## 🤖🌄 KG-driven Multi-modal Learning (KG4MM)
 
 ### Understanding & Reasoning Tasks
 
@@ -115,7 +115,7 @@
 
 ---
 
-##  🏖️ Multi-modal Knowledge Graph (MM4KG)
+##  🌄🤖 Multi-modal Knowledge Graph (MM4KG)
 
 ### MMKG Resources
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
