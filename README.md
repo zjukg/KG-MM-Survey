@@ -287,7 +287,7 @@
 - \[[ICME 2022](https://ieeexplore.ieee.org/abstract/document/9859972/)\] CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention.
 - \[[DASFAA 2022](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_24)\] PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition.
 - \[[NAACL-HLT 2022](https://arxiv.org/abs/2112.06482)\] ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition.
-- \[[arXiv 2023](https://ieeexplore.ieee.org/abstract/document/10413604/)\] Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck.
+- \[[TASLP 2023](https://ieeexplore.ieee.org/abstract/document/10413604/)\] Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck.
 - \[[TCSS 2023](https://ieeexplore.ieee.org/abstract/document/10223602/)\] Dynamic Graph Construction Framework for Multimodal Named Entity Recognition in Social Media.
 - \[[SIGIR 2022](https://arxiv.org/abs/2205.02357)\] Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion.
 - \[[WSDM 2023](https://dl.acm.org/doi/abs/10.1145/3539597.3570485)\] Reducing the Bias of Visual Objects in Multimodal Named Entity Recognition.
