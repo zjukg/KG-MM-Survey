@@ -21,7 +21,6 @@
          
 ## 📜 Content
 ![Roadmap](figures/roadmap.jpg)
-
 - [KG-MM-Survey](#kg-mm-survey)
   - [🔔 News](#-news)
   - [📜Content](#-content)
