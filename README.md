@@ -347,14 +347,14 @@
 </div>
 </details>
 
-##### Image-Text:
+ Image-Text:
 - \[[ACM MM 2023](https://arxiv.org/abs/2306.08966)\] Training Multimedia Event Extraction With Generated Images and Captions.
 - \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548132)\] Multimedia Event Extraction From News With a Unified Contrastive Learning Framework.
 - \[[CVPR 2022](https://arxiv.org/abs/2201.05078)\] CLIP-Event: Connecting Text and Images with Event Structures.
 - \[[ACL 2020](https://arxiv.org/abs/2005.02472)\] Cross-media Structured Common Space for Multimedia Event Extraction.
 
 
-##### Video-Text:
+ Video-Text:
 - \[[FUSION 2023](https://ieeexplore.ieee.org/abstract/document/10224213/)\] Few-shot Domain-Adaptative Visually-fused Event Detection from Text.
 - \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.103/)\] Three Stream Based Multi-level Event Contrastive Learning for Text-Video Event Extraction.
 - \[[DASFAA 2023](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_51)\] Cross-Modal Contrastive Learning for Event Extraction.
@@ -463,12 +463,12 @@
 </details>
 
 #### Retrieval
-##### Image Retrieval
+##### Image Retrieval:
 - \[[EMNLP 2021](https://arxiv.org/abs/2008.09150)\] VisualSem: a high-quality knowledge graph for vision and language.
 - \[[ISWC 2017](https://link.springer.com/chapter/10.1007/978-3-319-68204-4_8)\] IMGpedia: A Linked Dataset with Content-Based Analysis of Wikimedia Images.
 - \[[TIP 2017](https://ieeexplore.ieee.org/abstract/document/7835116/)\] Robust ImageGraph: Rank-Level Feature Fusion for Image Search.
 
-##### Cross-modal Retrieval
+##### Cross-modal Retrieval:
 - \[[AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25445)\] Multi-Modal Knowledge Hypergraph for Diverse Image Retrieval.
 - \[[TOMCCAP 2023](https://dl.acm.org/doi/abs/10.1145/3580501)\] MKVSE: Multimodal Knowledge Enhanced Visual-semantic Embedding for Image-text Retrieval.
 - \[[arXiv 2022](https://arxiv.org/abs/2206.13163)\] Endowing Language Models with Multimodal Knowledge Graph Representations.
@@ -481,10 +481,10 @@
 
 
 #### Pre-training
-##### Triple-level
+##### Triple-level:
 - \[[NeurIPS 2022](https://arxiv.org/abs/2210.08901)\] Contrastive Language-Image Pre-Training with Knowledge Graphs.
 
-##### Graph-level
+##### Graph-level:
 - \[[NeurIPS 2023](https://arxiv.org/abs/2309.13625)\] GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph.
 - \[[arXiv 2023](https://arxiv.org/abs/2302.06891)\] UKnow: A Unified Knowledge Protocol for Common-Sense Reasoning and Vision-Language Pre-training.
 
