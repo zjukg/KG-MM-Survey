@@ -44,7 +44,7 @@
       - [Knowledge Graph aware Pre-training](#knowledge-graph-aware-pre-training)
   - [🌄🤖 Multi-modal Knowledge Graph (MM4KG)](#-multi-modal-knowledge-graph-mm4kg)
     - [MMKG Resources](#mmkg-resources)
-      - [Public MMKG](#public-mmkg)
+      - [Public MMKGs](#public-mmkgs)
       - [MMKG Construction Methods](#mmkg-construction-methods)
     - [MMKG Acquisition](#mmkg-acquisition)
       - [Multi-modal Named Entity Recognition](#multi-modal-named-entity-recognition)
@@ -276,6 +276,41 @@
     <img src="figures/mnertab.jpg" width="40%" height="auto" />
 </div>
 </details>
+
+- \[[arXiv 2023](https://arxiv.org/abs/2305.08372)\] A Novel Framework for Multimodal Named Entity Recognition with Multi-level Alignments.
+- \[[ACM MM 2023](https://arxiv.org/abs/2310.16822)\] Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction.
+- \[[EMNLP 2023](https://arxiv.org/abs/2305.12212)\] Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge.
+- \[[CIKM 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3614967)\] MGICL: Multi-Grained Interaction Contrastive Learning for Multimodal Named Entity Recognition.
+- \[[EMNLP 2022](https://arxiv.org/abs/2212.01612)\] Named Entity and Relation Extraction with Multi-Modal Retrieval.
+- \[[ICME 2022](https://ieeexplore.ieee.org/abstract/document/9859972/)\] CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention.
+- \[[DASFAA 2022](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_24)\] PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition.
+- \[[NAACL-HLT 2022](https://arxiv.org/abs/2112.06482)\] ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition.
+- \[[arXiv 2023](https://ieeexplore.ieee.org/abstract/document/10413604/)\] Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck.
+- \[[TCSS 2023](https://ieeexplore.ieee.org/abstract/document/10223602/)\] Dynamic Graph Construction Framework for Multimodal Named Entity Recognition in Social Media.
+- \[[SIGIR 2022](https://arxiv.org/abs/2205.02357)\] Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion.
+- \[[WSDM 2023](https://dl.acm.org/doi/abs/10.1145/3539597.3570485)\] Reducing the Bias of Visual Objects in Multimodal Named Entity Recognition.
+- \[[AAAI 2023](https://arxiv.org/abs/2211.14739)\] MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding.
+- \[[TAI 2023](https://ieeexplore.ieee.org/abstract/document/10292546/)\] Text-Image Scene Graph Fusion for Multi-Modal Named Entity Recognition.
+- \[[CIKM 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3614975)\] MPMRC-MNER: A Unified MRC framework for Multimodal Named Entity Recognition based Multimodal Prompt.
+- \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548228)\] Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER.
+- \[[IJMLC 2023](https://link.springer.com/article/10.1007/s13042-023-02037-8)\] ‘What’and ‘Where’both matter: dual cross-modal graph convolutional networks for multimodal named entity recognition.
+- \[[EMNLP 2022](https://aclanthology.org/2022.findings-emnlp.473/)\] Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition.
+- \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548427)\] Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition.
+- \[[COLING 2022](https://arxiv.org/abs/2208.11039)\] Flat Multi-modal Interaction Transformer for Named Entity Recognition.
+- \[[NAACL 2022](https://arxiv.org/abs/2205.03521)\] Good Visual Guidance Make A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction.
+- \[[EMNLP 2022](https://aclanthology.org/2022.emnlp-main.422/)\] A Span-based Multimodal Variational Autoencoder for Semi-supervised Multimodal Named Entity Recognition.
+- \[[WSDM 2022](https://dl.acm.org/doi/abs/10.1145/3488560.3498475)\] MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition.
+- \[[Appl. Intell. 2022](https://link.springer.com/article/10.1007/s10489-021-02546-5)\] UAMNer: uncertainty-aware multimodal named entity recognition in social media posts.
+- \[[IPM 2024](https://www.sciencedirect.com/science/article/pii/S0306457323002832)\] Multi-granularity cross-modal representation learning for named entity recognition on social media.
+- \[[IEICE Trans. Inf. Syst. 2023](https://search.ieice.org/bin/summary.php?id=e106-d_4_545)\] Multimodal Named Entity Recognition with Bottleneck Fusion and Contrastive Learning.
+- \[[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/17687)\] Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance.
+- \[[ACL 2020](https://aclanthology.org/2020.acl-main.306/)\] Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer.
+- \[[COLING 2020](https://aclanthology.org/2020.coling-main.168/)\] RIVA: A Pre-trained Tweet Multimodal Model Based on Text-image Relation for Multimodal NER.
+- \[[DASFAA 2021](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_12)\] Multimodal Named Entity Recognition with Image Attributes and Image Knowledge.
+- \[[ACM MM 2021](https://dl.acm.org/doi/abs/10.1145/3474085.3476968)\] Multimodal Relation Extraction with Efficient Graph Alignment.
+- \[[AAAI 2021](https://arxiv.org/abs/2102.02967)\] RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER.
+- \[[ACM MM 2020](https://dl.acm.org/doi/abs/10.1145/3394171.3413650)\] Multimodal Representation with Embedded Visual Guiding Objects for Named Entity Recognition in Social Media Posts.
+
 
 #### Multi-modal Relation Extraction
 <details>
