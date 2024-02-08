@@ -22,7 +22,7 @@
 - [📜 KG-MM-Survey](#kg-mm-survey)
   - [🔔 News](#-news)
   - [Content](#content)
-  - [🏝️ KG-driven Multi-modal Learning (KG4MM)](#-kg-driven-multi-modal-learning)
+  - [🏝️ KG-driven Multi-modal Learning (KG4MM)](#kg-driven-multi-modal-learning-kg4mm)
     - [Understanding & Reasoning Tasks](#understanding--reasoning-tasks)
       - [Visual Question Answering](#visual-question-answering)
       - [Visual Question Generation](#visual-question-generation)
@@ -70,7 +70,7 @@
 
 ---
 
-## 🏝️ KG-driven Multi-modal Learning
+## KG-driven Multi-modal Learning (KG4MM)
 
 ### Understanding & Reasoning Tasks
 
