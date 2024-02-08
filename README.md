@@ -174,10 +174,11 @@
 - 😄 A very brief explanation why you think a paper should be added or updated is recommended (Not Neccessary) via **`Adding Issues`** or **`Pull Requests`**.
 
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
+---
 
 ### 🔖 Contact
 
-📫 How to reach me: zhuo.chen@zju.edu.cn 
+> 📫 How to reach me: zhuo.chen@zju.edu.cn 
 
 
 ### 🤝 Cite:
