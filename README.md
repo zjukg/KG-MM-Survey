@@ -44,9 +44,8 @@
       - [Knowledge Graph aware Pre-training](#knowledge-graph-aware-pre-training)
   - [🌄🤖 Multi-modal Knowledge Graph (MM4KG)](#-multi-modal-knowledge-graph-mm4kg)
     - [MMKG Resources](#mmkg-resources)
-      - [A-MMKG](#a-mmkg)
-      - [N-MMKG](#n-mmkg)
-      - [Task-specific MMKG](#task-specific-mmkg)
+      - [Public MMKG](#public-mmkg)
+      - [MMKG Construction Methods](#mmkg-construction-methods)
     - [MMKG Acquisition](#mmkg-acquisition)
       - [Multi-modal Named Entity Recognition](#multi-modal-named-entity-recognition)
       - [Multi-modal Relation Extraction](#multi-modal-relation-extraction)
@@ -214,15 +213,49 @@
 
 ### MMKG Resources
 
-#### A-MMKG
-
-#### N-MMKG
-
+#### Public MMKGs
 <details>
     <summary>👈 🔎 N-MMKG Ontology </summary>
 
 ![MMKGOnto](figures/mmkgonto.jpg)
 </details>
+
+- \[[arXiv 2023](https://arxiv.org/abs/2312.10417)\] M2ConceptBase: A Fine-grained Aligned Multi-modal Conceptual Knowledge Base.
+- \[[arXiv 2023](https://arxiv.org/abs/2311.03783)\] Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI.
+- \[[EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.488/)\] VISTA: Visual-Textual Knowledge Graph Representation Learning.
+- \[[ISWC 2023](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_2)\] MMpedia: A Large-Scale Multi-modal Knowledge Graph.
+- \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612266)\] TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio.
+- \[[CIKM 2023](https://arxiv.org/abs/2308.04992)\] AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities.
+- \[[ISWC 2023](https://arxiv.org/abs/2307.16210)\] Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment.
+- \[[arXiv 2023](https://arxiv.org/abs/2302.06891)\] UKnow: A Unified Knowledge Protocol for Common-Sense Reasoning and Vision-Language Pre-training.
+- \[[ICASSP 2023](https://arxiv.org/abs/2302.08774)\] Vision, Deduction and Alignment: An Empirical Study on Multi-Modal Knowledge Graph Alignment.
+- \[[ICLR 2023](https://arxiv.org/abs/2210.00312)\] Multimodal Analogical Reasoning over Knowledge Graphs.
+- \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548388)\] Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion.
+- \[[NAACL 2021](https://aclanthology.org/2021.naacl-demos.16/)\] RESIN: A Dockerized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System.
+- \[[AAAI 2021](https://arxiv.org/abs/2009.13603)\] Visual Pivoting for (Unsupervised) Entity Alignment.
+- \[[BDR 2020](https://www.sciencedirect.com/science/article/pii/S2214579620300277)\] Richpedia: A Large-Scale, Comprehensive Multi-Modal Knowledge Graph.
+- \[[arXiv 2020](https://arxiv.org/abs/2008.09150)\] VisualSem: a high-quality knowledge graph for vision and language.
+- \[[ACL 2020](https://aclanthology.org/2020.acl-demos.11/)\] GAIA: A Fine-grained Multimedia Knowledge Extraction System.
+- \[[ESWC 2019](https://link.springer.com/chapter/10.1007/978-3-030-21348-0_30)\] MMKG: Multi-modal Knowledge Graphs.
+- \[[ISWC 2017](https://link.springer.com/chapter/10.1007/978-3-319-68204-4_8)\] IMGpedia: A Linked Dataset with Content-Based Analysis of Wikimedia Images.
+- \[[TIP 2017](https://ieeexplore.ieee.org/abstract/document/7835116/)\] Robust ImageGraph: Rank-Level Feature Fusion for Image Search.
+- \[[IJCV 2017](https://arxiv.org/abs/1602.07332)\] Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations.
+- \[[ICCV 2013](http://openaccess.thecvf.com/content_iccv_2013/html/Chen_NEIL_Extracting_Visual_2013_ICCV_paper.html)\] NEIL: Extracting Visual Knowledge from Web Data.
+
+
+#### MMKG Construction Methods
+
+- \[[DASFAA 2022](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_14)\] Visualizable or Non-visualizable? Exploring the Visualizability of Concepts in Multi-modal Knowledge Graph.
+- \[[ACM MM 2020](https://dl.acm.org/doi/abs/10.1145/3394171.3416292)\] Towards Using Semantic-Web Technologies for Multi-Modal Knowledge Graph Construction.
+- \[[AKBC 2019](https://arxiv.org/abs/1709.02314)\] Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs.
+- \[[IJCAI 2017](https://www.ijcai.org/Proceedings/2017/0238.pdf)\] Extracting Visual Knowledge from the Web with Multimodal Learning.
+- \[[IJCAI 2017](https://arxiv.org/abs/1609.07028)\] Image-embodied Knowledge Representation Learning.
+- \[[ECCV 2016](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_51)\] Visual Relationship Detection with Language Priors.
+- \[[NAACL 2016](https://aclanthology.org/N16-1023.pdf)\] Stating the Obvious: Extracting Visual Common Sense Knowledge.
+- \[[CVPR 2015](http://openaccess.thecvf.com/content_cvpr_2015/html/Johnson_Image_Retrieval_Using_2015_CVPR_paper.html)\] Image retrieval using scene graphs.
+- \[[CVPR 2014](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Chen_Enriching_Visual_Knowledge_2014_CVPR_paper.html)\] Enriching Visual Knowledge Bases via Object Discovery and Segmentation.
+
+
 
 
 
