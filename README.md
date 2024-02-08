@@ -1,4 +1,4 @@
-# 📜 KG-MM-Survey
+# KG-MM-Survey
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-MM-Survey) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zjukg/KG-MM-Survey/blob/main/LICENSE)
 ![](https://img.shields.io/github/last-commit/zjukg/KG-MM-Survey?color=green) 
@@ -19,7 +19,7 @@
    
 ## Content
 
-- [📜 KG-MM-Survey](#-kg-mm-survey)
+- [📜 KG-MM-Survey](#kg-mm-survey)
   - [🔔 News](#-news)
   - [Content](#content)
   - [🏝️ KG-driven Multi-modal Learning](#-kg-driven-multi-modal-learning)
