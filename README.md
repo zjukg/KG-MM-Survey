@@ -18,7 +18,7 @@
 
 
 ## 🔔 News
-- **`2023-11` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey]()  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
+- **`2024-2` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey]()  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
 
 *Todo:*
 1. - [ ] `Finish updating papers`
