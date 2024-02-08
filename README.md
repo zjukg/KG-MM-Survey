@@ -427,6 +427,28 @@
 </div>
 </details>
 
+- \[[EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.488/)\] VISTA: Visual-Textual Knowledge Graph Representation Learning.
+- \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612266)\] TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio.
+- \[[TMCCA 2023](https://dl.acm.org/doi/abs/10.1145/3545573)\] Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion.
+- \[[arXiv 2023](https://arxiv.org/abs/2307.03591)\] Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning.
+- \[[TKDE 2023](https://ieeexplore.ieee.org/abstract/document/9942333/)\] Contrastive Multi-Modal Knowledge Graph Representation Learning.
+- \[[ICDE 2023](https://ieeexplore.ieee.org/abstract/document/10231041/)\] Multimodal Biological Knowledge Graph Completion via Triple Co-Attention Mechanism.
+- \[[ECML/PKDD 2022](https://link.springer.com/chapter/10.1007/978-3-031-26390-3_11)\] MULTIFORM: Few-Shot Knowledge Graph Completion via Multi-modal Contexts.
+- \[[WWW 2023](https://arxiv.org/abs/2303.10816)\] IMF: Interactive Multimodal Fusion Model for Link Prediction.
+- \[[SIGIR 2022](https://arxiv.org/abs/2205.02357)\] Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion.
+- \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548388)\] Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion.
+- \[[IJCNN 2023](https://arxiv.org/abs/2304.11618)\] Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding.
+- \[[Appl. Intell. 2022](https://link.springer.com/article/10.1007/s10489-021-02693-9)\] MMKRL: A robust embedding approach for multi-modal knowledge graph representation learning.
+- \[[EMNLP 2022](https://arxiv.org/abs/2210.08821)\] MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion.
+- \[[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ffdb280e7c7b4c4af30e04daf5a84b98-Abstract-Conference.html)\] OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport.
+- \[[KDD 2022](https://arxiv.org/abs/2209.07084)\] Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling.
+- \[[ACM MM 2021](https://arxiv.org/abs/2209.07084)\] Is Visual Context Really Helpful for Knowledge Graph? A Representation Learning Perspective.
+- \[[IJCNN 2019](https://ieeexplore.ieee.org/abstract/document/8852079/)\] Multimodal Data Enhanced Representation Learning for Knowledge Graphs.
+- \[[EMNLP 2018](https://arxiv.org/abs/1809.01341)\] Embedding Multimodal Relational Data for Knowledge Base Completion.
+- \[[NAACL 2018](https://aclanthology.org/S18-2027/)\] A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning.
+- \[[IJCAI 2017](https://arxiv.org/abs/1609.07028)\] Image-embodied Knowledge Representation Learning.
+
+
 #### Multi-modal Knowledge Graphs Reasoning
 
 ### MMKG-driven Tasks
