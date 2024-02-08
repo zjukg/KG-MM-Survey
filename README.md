@@ -169,6 +169,23 @@
 </div>
 </details>
 
+- \[[arXiv 2023](https://arxiv.org/abs/2401.00608)\] Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs.
+- \[[AAAI 2023](https://arxiv.org/abs/2207.01328)\] DUET: Cross-Modal Semantic Grounding for Contrastive Zero-Shot Learning.
+- \[[KDD 2023](https://arxiv.org/abs/2306.08487)\] Recognizing Unseen Objects via Multimodal Intensive Knowledge Graph Propagation.
+- \[[JWS 2023](https://arxiv.org/abs/2106.15047)\] Benchmarking knowledge-driven zero-shot learning.
+- \[[ICTAI 2022](https://ieeexplore.ieee.org/abstract/document/10098100/)\] A Zero-shot Learning Method with a Multi-Modal Knowledge Graph.
+- \[[KDD 2022](https://arxiv.org/abs/2206.03739)\] Disentangled Ontology Embedding for Zero-shot Learning.
+- \[[Trans. Mach. Learn. Res. 2022](https://arxiv.org/abs/2006.10713)\] Zero-Shot Learning with Common Sense Knowledge Graphs.
+- \[[Cogn. Comput. 2022](https://arxiv.org/abs/2012.06236)\] Improving Zero-Shot Learning Baselines with Commonsense Knowledge.
+- \[[ICCV 2021 Workshop](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/html/Wang_Zero-Shot_Learning_via_Contrastive_Learning_on_Dual_Knowledge_Graphs_ICCVW_2021_paper.html)\] Zero-Shot Learning via Contrastive Learning on Dual Knowledge Graphs.
+- \[[WWW 2021](https://arxiv.org/abs/2102.07339)\] OntoZSL: Ontology-enhanced Zero-shot Learning.
+- \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6626)\] Zero-Shot Ingredient Recognition by Multi-Relational Graph Convolutional Network.
+- \[[KR 2020](https://arxiv.org/abs/2006.16917)\] Ontology-guided Semantic Composition for Zero-shot Learning.
+- \[[AAAI 2019](https://ojs.aaai.org/index.php/AAAI/article/view/4843)\] I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs.
+- \[[CVPR 2019](https://arxiv.org/abs/1805.11724)\] Rethinking Knowledge Graph Propagation for Zero-Shot Learning.
+- \[[CVPR 2018](https://arxiv.org/abs/1803.08035)\] Zero-Shot Recognition via Semantic Embeddings and Knowledge Graphs.
+
+
 #### Fake News Detection
 
 #### Movie Genre Classification
