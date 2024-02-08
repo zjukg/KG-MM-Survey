@@ -73,7 +73,12 @@
 ## 🤖🌄 KG-driven Multi-modal Learning (KG4MM)
 
 ### Understanding & Reasoning Tasks
+<details>
+   <summary>👈 🔎 Pipeline </summary>
+   
 ![KG4MMR](figures/kg4mmr.jpg)
+
+</details>
 
 #### Visual Question Answering
 
@@ -89,7 +94,12 @@
 #### Visual Dialog
 
 ### Classification Tasks
+<details>
+   <summary>👈 🔎 Comparison </summary>
+   
 ![IMGC](figures/imgc.jpg)
+
+</details>
 
 #### Image Classification
 
@@ -137,7 +147,14 @@
 
 #### N-MMKG
 
+<details>
+    <summary>👈 🔎 N-MMKG Ontology </summary>
+
 ![MMKGOnto](figures/mmkgonto.jpg)
+
+</details>
+
+
 
 #### Task-specific MMKG
 
