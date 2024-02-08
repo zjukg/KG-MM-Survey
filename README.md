@@ -70,7 +70,7 @@
 
 ---
 
-## KG-driven Multi-modal Learning (KG4MM)
+## 🏝️ KG-driven Multi-modal Learning (KG4MM)
 
 ### Understanding & Reasoning Tasks
 
