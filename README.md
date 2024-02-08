@@ -65,7 +65,7 @@
       - [Industry Application](#industry-application)
   - [Contribution](#contribution)
     - [👥 Contributors](#-contributors)
-    - [🔖 Contact](#contact)
+    - [🔖 Contact](#-contact)
     - [🤝 Citation:](#-cite)
 
 ---
