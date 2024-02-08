@@ -102,12 +102,24 @@
 </details>
 
 #### Image Classification
+<details>
+    <summary>👈 🔎 Benchmarks </summary>
+
+![IMG](figures/imgctab.jpg)
+
+</details>
 
 #### Fake News Detection
 
 #### Movie Genre Classification
 
 ### Content Generation Tasks 
+<details>
+   <summary>👈 🔎 Case </summary>
+   
+![case](figures/VGG.jpg)
+
+</details>
 
 #### Image Captioning
 
@@ -118,6 +130,12 @@
 #### Scene Graph Generation
 
 ### Retrieval Tasks
+<details>
+   <summary>👈 🔎 Case </summary>
+   
+![case](figures/CMR.jpg)
+
+</details>
 
 #### Cross-Modal Retrieval
 
@@ -159,26 +177,74 @@
 #### Task-specific MMKG
 
 ### MMKG Acquisition
+<details>
+   <summary>👈 🔎 Case </summary>
+   
+![case](figures/MMIE.jpg)
+
+</details>
 
 #### Multi-modal Named Entity Recognition
+<details>
+    <summary>👈 🔎 Benchmarks </summary>
+
+![MNER](figures/mnertab.jpg)
+
+</details>
 
 #### Multi-modal Relation Extraction
+<details>
+    <summary>👈 🔎 Benchmarks </summary>
+
+![MMRE](figures/mmretab.jpg)
+
+</details>
 
 #### Multi-modal Event Extraction
+<details>
+    <summary>👈 🔎 Benchmarks </summary>
+
+![MMEE](figures/mmeetab.jpg)
+
+</details>
 
 ### MMKG Fusion
 
 #### Multi-modal Entity Alignment
+<details>
+    <summary>👈 🔎 Benchmarks </summary>
+
+![MMEA](figures/mmeatab.jpg)
+
+</details>
 
 #### Multi-modal Entity Linking & Disambiguation
+<details>
+    <summary>👈 🔎 Benchmarks </summary>
+
+![MMEL](figures/mmeltab.jpg)
+
+</details>
 
 ### MMKG Inference
 
 #### Multi-modal Knowledge Graph Completion
+<details>
+    <summary>👈 🔎 Benchmarks </summary>
+
+![MKGC](figures/mkgctab.jpg)
+
+</details>
 
 #### Multi-modal Knowledge Graphs Reasoning
 
 ### MMKG-driven Tasks
+<details>
+   <summary>👈 🔎 Case </summary>
+   
+![case](figures/mmkg4mm.jpg)
+
+</details>
 
 #### Retrieval
 
