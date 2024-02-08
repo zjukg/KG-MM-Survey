@@ -239,8 +239,8 @@
 - \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548388)\] Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion.
 - \[[NAACL 2021](https://aclanthology.org/2021.naacl-demos.16/)\] RESIN: A Dockerized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System.
 - \[[AAAI 2021](https://arxiv.org/abs/2009.13603)\] Visual Pivoting for (Unsupervised) Entity Alignment.
+- \[[EMNLP 2021](https://arxiv.org/abs/2008.09150)\] VisualSem: a high-quality knowledge graph for vision and language.
 - \[[BDR 2020](https://www.sciencedirect.com/science/article/pii/S2214579620300277)\] Richpedia: A Large-Scale, Comprehensive Multi-Modal Knowledge Graph.
-- \[[arXiv 2020](https://arxiv.org/abs/2008.09150)\] VisualSem: a high-quality knowledge graph for vision and language.
 - \[[ACL 2020](https://aclanthology.org/2020.acl-demos.11/)\] GAIA: A Fine-grained Multimedia Knowledge Extraction System.
 - \[[ESWC 2019](https://link.springer.com/chapter/10.1007/978-3-030-21348-0_30)\] MMKG: Multi-modal Knowledge Graphs.
 - \[[ISWC 2017](https://link.springer.com/chapter/10.1007/978-3-319-68204-4_8)\] IMGpedia: A Linked Dataset with Content-Based Analysis of Wikimedia Images.
@@ -290,7 +290,7 @@
 - \[[EMNLP 2022](https://arxiv.org/abs/2212.01612)\] Named Entity and Relation Extraction with Multi-Modal Retrieval.
 - \[[ICME 2022](https://ieeexplore.ieee.org/abstract/document/9859972/)\] CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention.
 - \[[DASFAA 2022](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_24)\] PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition.
-- \[[NAACL-HLT 2022](https://arxiv.org/abs/2112.06482)\] ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition.
+- \[[NAACL 2022](https://arxiv.org/abs/2112.06482)\] ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition.
 - \[[TASLP 2023](https://ieeexplore.ieee.org/abstract/document/10413604/)\] Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck.
 - \[[TCSS 2023](https://ieeexplore.ieee.org/abstract/document/10223602/)\] Dynamic Graph Construction Framework for Multimodal Named Entity Recognition in Social Media.
 - \[[SIGIR 2022](https://arxiv.org/abs/2205.02357)\] Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion.
@@ -429,7 +429,7 @@
 
 - \[[EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.488/)\] VISTA: Visual-Textual Knowledge Graph Representation Learning.
 - \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612266)\] TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio.
-- \[[TMCCA 2023](https://dl.acm.org/doi/abs/10.1145/3545573)\] Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion.
+- \[[TOMCCAP 2023](https://dl.acm.org/doi/abs/10.1145/3545573)\] Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion.
 - \[[arXiv 2023](https://arxiv.org/abs/2307.03591)\] Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning.
 - \[[TKDE 2023](https://ieeexplore.ieee.org/abstract/document/9942333/)\] Contrastive Multi-Modal Knowledge Graph Representation Learning.
 - \[[ICDE 2023](https://ieeexplore.ieee.org/abstract/document/10231041/)\] Multimodal Biological Knowledge Graph Completion via Triple Co-Attention Mechanism.
@@ -450,6 +450,9 @@
 
 
 #### Multi-modal Knowledge Graphs Reasoning
+- \[[ICLR 2023](https://arxiv.org/abs/2210.00312)\] Multimodal Analogical Reasoning over Knowledge Graphs.
+- \[[arXiv 2023](https://arxiv.org/abs/2306.10345)\] Do as I can, not as I get: Topology-aware multi-hop reasoning on multi-modal knowledge graphs.
+- \[[ICDE 2023](https://arxiv.org/abs/2209.01416)\] MMKGR: Multi-hop Multi-modal Knowledge Graph Reasoning.
 
 ### MMKG-driven Tasks
 <details>
@@ -460,15 +463,46 @@
 </details>
 
 #### Retrieval
+##### Image Retrieval
+- \[[EMNLP 2021](https://arxiv.org/abs/2008.09150)\] VisualSem: a high-quality knowledge graph for vision and language.
+- \[[ISWC 2017](https://link.springer.com/chapter/10.1007/978-3-319-68204-4_8)\] IMGpedia: A Linked Dataset with Content-Based Analysis of Wikimedia Images.
+- \[[TIP 2017](https://ieeexplore.ieee.org/abstract/document/7835116/)\] Robust ImageGraph: Rank-Level Feature Fusion for Image Search.
+
+##### Cross-modal Retrieval
+- \[[AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25445)\] Multi-Modal Knowledge Hypergraph for Diverse Image Retrieval.
+- \[[TOMCCAP 2023](https://dl.acm.org/doi/abs/10.1145/3580501)\] MKVSE: Multimodal Knowledge Enhanced Visual-semantic Embedding for Image-text Retrieval.
+- \[[arXiv 2022](https://arxiv.org/abs/2206.13163)\] Endowing Language Models with Multimodal Knowledge Graph Representations.
+- \[[DASFAA 2021](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_12)\] Multimodal Named Entity Recognition with Image Attributes and Image Knowledge.
 
 #### Reasoning & Generation
+- \[[arXiv 2023](https://arxiv.org/abs/2312.10417)\] M2ConceptBase: A Fine-grained Aligned Multi-modal Conceptual Knowledge Base.
+- \[[JIIS 2023](https://link.springer.com/article/10.1007/s10844-023-00812-1)\] Self-supervised opinion summarization with multi-modal knowledge graph.
+- \[[TMM 2023](https://arxiv.org/abs/2107.11970)\] Boosting Entity-aware Image Captioning with Multi-modal Knowledge Graph.
+
 
 #### Pre-training
+##### Triple-level
+- \[[NeurIPS 2022](https://arxiv.org/abs/2210.08901)\] Contrastive Language-Image Pre-Training with Knowledge Graphs.
+
+##### Graph-level
+- \[[NeurIPS 2023](https://arxiv.org/abs/2309.13625)\] GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph.
+- \[[arXiv 2023](https://arxiv.org/abs/2302.06891)\] UKnow: A Unified Knowledge Protocol for Common-Sense Reasoning and Vision-Language Pre-training.
 
 #### AI for Science
+- \[[AAAI 2023 (Student Abstract)](https://arxiv.org/abs/2207.10080)\] Multi-Modal Protein Knowledge Graph Construction and Applications.
+- \[[ICDE 2023](https://ieeexplore.ieee.org/abstract/document/10231041/)\] Multimodal Biological Knowledge Graph Completion via Triple Co-Attention Mechanism.
+- \[[Nat. Mach. Intell. 2023](https://www.nature.com/articles/s42256-023-00654-0)\] Knowledge graph-enhanced molecular contrastive learning with functional prompt.
+- \[[AAAI 2022](https://arxiv.org/abs/2112.00544)\] Molecular Contrastive Learning with Chemical Element Knowledge Graph.
+- \[[ICLR 2022](https://arxiv.org/abs/2201.11147)\] OntoProtein: Protein Pretraining With Gene Ontology Embedding.
+- \[[IJCAI 2020](https://xuanlin1991.github.io/files/publications/ijcai20.pdf)\] KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction.
 
 #### Industry Application
-
+- \[[PRCV 2023](https://dl.acm.org/doi/abs/10.1145/3503161.3548273)\] Enhancing Recommender System with Multi-modal Knowledge Graph.
+- \[[ACL 2023](https://aclanthology.org/2023.acl-industry.16/)\] FashionKLIP: Enhancing E-Commerce Image-Text Retrieval with Fashion Multi-Modal Conceptual Knowledge Graph.
+- \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548273)\] Cross-modal Knowledge Graph Contrastive Learning for Machine Learning Method Recommendation.
+- \[[CIKM 2021](https://dl.acm.org/doi/abs/10.1145/3459637.3481983)\] AliMe MKG: A Multi-modal Knowledge Graph for Live-streaming E-commerce.
+- \[[ACM MM 2021](https://dl.acm.org/doi/abs/10.1145/3474085.3475648)\] Knowledge Perceived Multi-modal Pretraining in E-commerce.
+- \[[CIKM 2020](https://dl.acm.org/doi/abs/10.1145/3340531.3411947)\] Multi-modal Knowledge Graphs for Recommender Systems.
 
 
 
