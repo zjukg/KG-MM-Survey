@@ -151,9 +151,11 @@
 
 
 #### Visual Question Generation
-
+- Todo
+  
 #### Visual Dialog
-
+- Todo
+  
 ### Classification Tasks
 <details>
    <summary>👈 🔎 Comparison </summary>
@@ -187,8 +189,10 @@
 
 
 #### Fake News Detection
+- Todo
 
 #### Movie Genre Classification
+- Todo
 
 ### Content Generation Tasks 
 <details>
@@ -199,13 +203,17 @@
 </details>
 
 #### Image Captioning
-
+- Todo
+  
 #### Visual Storytelling
-
+- Todo
+  
 #### Conditional Text-to-Image Generation
-
+- Todo
+  
 #### Scene Graph Generation
-
+- Todo
+  
 ### Retrieval Tasks
 <details>
    <summary>👈 🔎 Case </summary>
@@ -215,15 +223,20 @@
 </details>
 
 #### Cross-Modal Retrieval
-
+- Todo
+  
 #### Visual Referring Expressions & Grounding
-
+- Todo
+  
 ### KG-aware Mutli-modal Pre-training
-
+- Todo
+  
 #### Structure Knowledge aware Pre-training
-
+- Todo
+  
 #### Knowledge Graph aware Pre-training
-
+- Todo
+  
 ---
 
 ##  🌄🤖 Multi-modal Knowledge Graph (MM4KG)
