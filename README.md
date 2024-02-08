@@ -15,15 +15,14 @@
 
 
 *Todo:*
-1. - [ ] `Fine-grained classification of papers`
-2. - [ ] `Update paper project / code`
+1. - [ ] `Update paper project / code`
    
 ## Content
 
 - [📜 KG-MM-Survey](#-kg-mm-survey)
   - [🔔 News](#-news)
   - [Content](#content)
-  - [KG-driven Multi-modal Learning](#kg-driven-multi-modal-learning)
+  - [🏝️ KG-driven Multi-modal Learning](#-kg-driven-multi-modal-learning)
     - [Understanding & Reasoning Tasks](#understanding--reasoning-tasks)
       - [Visual Question Answering](#visual-question-answering)
       - [Visual Question Generation](#visual-question-generation)
@@ -43,7 +42,7 @@
     - [KG-aware Mutli-modal Pre-training](#kg-aware-mutli-modal-pre-training)
       - [Structure Knowledge aware Pre-training](#structure-knowledge-aware-pre-training)
       - [Knowledge Graph aware Pre-training](#knowledge-graph-aware-pre-training)
-    - [Multi-modal Knowledge Graph](#multi-modal-knowledge-graph)
+    - [🏖️ Multi-modal Knowledge Graph](#-multi-modal-knowledge-graph)
       - [MMKG Resources](#mmkg-resources)
         - [A-MMKG](#a-mmkg)
         - [N-MMKG](#n-mmkg)
@@ -72,7 +71,7 @@
 
 ---
 
-##  KG-driven Multi-modal Learning
+## 🏝️ KG-driven Multi-modal Learning
 
 ### Understanding & Reasoning Tasks
 
@@ -117,7 +116,7 @@
 
 ---
 
-##  Multi-modal Knowledge Graph
+##  🏖️ Multi-modal Knowledge Graph
 
 ### MMKG Resources
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
@@ -181,14 +180,14 @@
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
 
 ### 🔖 Contact
-```
-zhuo.chen@zju.edu.cn
-```
+
+📫 How to reach me: zhuo.chen@zju.edu.cn 
+
 
 ## 🤝 Cite:
 If this Repo is helpful to you, please consider citing our paper. We would greatly appreciate it :)
 ```bigquery
-todo
+TODO
 ```
 
 ![Star History Chart](https://api.star-history.com/svg?repos=zjukg/KG-MM-Survey&type=Date)
