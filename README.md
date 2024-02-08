@@ -11,14 +11,14 @@
 
 
 ## 🔔 News
-- **`2023-11` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey]() and release the [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
+- **`2023-11` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey]()  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
 
    
-## Content
+## 📜 Content
 
-- [📜 KG-MM-Survey](#kg-mm-survey)
+- [KG-MM-Survey](#kg-mm-survey)
   - [🔔 News](#-news)
-  - [Content](#content)
+  - [📜Content](#-content)
   - [🤖🌄 KG-driven Multi-modal Learning (KG4MM)](#-kg-driven-multi-modal-learning-kg4mm)
     - [Understanding & Reasoning Tasks](#understanding--reasoning-tasks)
       - [Visual Question Answering](#visual-question-answering)
@@ -174,6 +174,7 @@
 - 😄 A very brief explanation why you think a paper should be added or updated is recommended (Not Neccessary) via **`Adding Issues`** or **`Pull Requests`**.
 
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
+
 ---
 
 ### 🔖 Contact
