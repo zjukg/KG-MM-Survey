@@ -204,20 +204,20 @@
 ---
 
 ##  🌄🤖 Multi-modal Knowledge Graph (MM4KG)
-
 <details>
-    <summary>👈 🔎 MMKG Overview </summary>
+    <summary>👈 🔎 N-MMKG Ontology </summary>
 
-![MMKG](figures/mmkgtab.jpg)
+![MMKGOnto](figures/mmkgonto.jpg)
 </details>
 
 ### MMKG Resources
 
 #### Public MMKGs
-<details>
-    <summary>👈 🔎 N-MMKG Ontology </summary>
 
-![MMKGOnto](figures/mmkgonto.jpg)
+<details>
+    <summary>👈 🔎 MMKG Overview </summary>
+
+![MMKG](figures/mmkgtab.jpg)
 </details>
 
 - \[[arXiv 2023](https://arxiv.org/abs/2312.10417)\] M2ConceptBase: A Fine-grained Aligned Multi-modal Conceptual Knowledge Base.
