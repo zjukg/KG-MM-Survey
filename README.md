@@ -4,9 +4,11 @@
 ![](https://img.shields.io/github/last-commit/zjukg/KG-MM-Survey?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
+![Roadmap](figures/roadmap.jpg)
 > 🙌 This repository collects papers integrating Knowledge Graphs (KGs) and Multi-Modal Learning, focusing on research in two principal aspects: **KG-driven Multi-Modal (KG4MM) learning**, where KGs support multi-modal tasks, and **Multi-Modal Knowledge Graph (MM4KG)**, which extends KG studies into the MMKG realm.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
+
 
 
 
@@ -15,6 +17,7 @@
 
    
 ## 📜 Content
+![Task](figures/task.jpg)
 
 - [KG-MM-Survey](#kg-mm-survey)
   - [🔔 News](#-news)
@@ -70,17 +73,23 @@
 ## 🤖🌄 KG-driven Multi-modal Learning (KG4MM)
 
 ### Understanding & Reasoning Tasks
-
-
-### Understanding & Reasoning Tasks
+![KG4MMR](figures/kg4mmr.jpg)
 
 #### Visual Question Answering
+
+<details>
+    <summary>👈 🔎 Benchmarks </summary>
+
+![VQA](figures/vqatab.jpg)
+
+</details>
 
 #### Visual Question Generation
 
 #### Visual Dialog
 
 ### Classification Tasks
+![IMGC](figures/imgc.jpg)
 
 #### Image Classification
 
@@ -114,12 +123,21 @@
 
 ##  🌄🤖 Multi-modal Knowledge Graph (MM4KG)
 
+<details>
+    <summary>👈 🔎 MMKG Overview </summary>
+
+![MMKG](figures/mmkgtab.jpg)
+
+</details>
+
 ### MMKG Resources
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
 
 #### A-MMKG
 
 #### N-MMKG
+
+![MMKGOnto](figures/mmkgonto.jpg)
 
 #### Task-specific MMKG
 
