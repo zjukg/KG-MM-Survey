@@ -151,10 +151,26 @@
 
 
 #### Visual Question Generation
-- Todo
+- \[[ICTIR 2023](https://arxiv.org/abs/2306.16478)\] Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering.
+- \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612536)\] Deconfounded Visual Question Generation with Causal Inference.
+- \[[WACV 2023](https://arxiv.org/abs/2203.07890)\] K-VQG: Knowledge-aware Visual Question Generation for Common-sense Acquisition.
+- \[[TCSVT 2022](https://ieeexplore.ieee.org/abstract/document/9826805/)\] Knowledge-Based Visual Question Generation.
+
   
 #### Visual Dialog
-- Todo
+- \[[ICMR 2023](https://dl.acm.org/doi/abs/10.1145/3591106.3592272)\] Knowledge-Aware Causal Inference Network for Visual Dialog.
+- \[[TCSVT 2023](https://ieeexplore.ieee.org/abstract/document/9893870/)\] Heterogeneous Knowledge Network for Visual Dialog.
+- \[[TMM 2023](https://ieeexplore.ieee.org/abstract/document/10147343/)\] Counterfactual Visual Dialog: Robust Commonsense Knowledge Learning from Unbiased Training.
+- \[[TPAMI 2022](https://ieeexplore.ieee.org/abstract/document/9444809/)\] Context-Aware Graph Inference With Knowledge Distillation for Visual Dialog.
+- \[[ACM MM 2022](https://arxiv.org/abs/2211.13235)\] Unified Multimodal Model with Unlikelihood Training for Visual Dialog.
+- \[[arXiv 2022](https://arxiv.org/abs/2207.07934)\] Multimodal Dialog Systems with Dual Knowledge-enhanced Generative Pretrained Language Model.
+- \[[CVPR 2022 Workshops](https://arxiv.org/abs/2204.04680)\] Reasoning with Multi-Structure Commonsense Knowledge in Visual Dialog.
+- \[[EMNLP 2021](https://arxiv.org/abs/2004.06698)\] Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer.
+- \[[ICME 2021](https://ieeexplore.ieee.org/abstract/document/9428279/)\] SKANet: Structured Knowledge-Aware Network for Visual Dialog.
+- \[[ACM MM 2020](https://arxiv.org/abs/2008.04858)\] KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue.
+- \[[CVPR 2020](https://arxiv.org/abs/2004.02194)\] Iterative Context-Aware Graph Inference for Visual Dialog.
+
+
   
 ### Classification Tasks
 <details>
@@ -189,10 +205,15 @@
 
 
 #### Fake News Detection
-- Todo
+- \[[ADMA 2023](https://link.springer.com/chapter/10.1007/978-3-031-46661-8_24)\] EmoKnow: Emotion- and Knowledge-Oriented Model for COVID-19 Fake News Detection.
+- \[[TKDE 2023](https://arxiv.org/abs/2306.02137)\] Inconsistent Matters: A Knowledge-Guided Dual-Consistency Network for Multi-Modal Rumor Detection.
+- \[[TOMCCAP 2021](https://dl.acm.org/doi/abs/10.1145/3451215)\] Knowledge-aware Multi-modal Adaptive Graph Convolutional Networks for Fake News Detection.
+- \[[ICMR 2020](https://dl.acm.org/doi/abs/10.1145/3372278.3390713)\] Fake News Detection via Knowledge-driven Multimodal Graph Convolutional Networks.
+
 
 #### Movie Genre Classification
-- Todo
+- \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612085)\] Incorporating Domain Knowledge Graph into Multimodal Movie Genre Classification with Self-Supervised Attention and Contrastive Learning.
+
 
 ### Content Generation Tasks 
 <details>
@@ -203,16 +224,55 @@
 </details>
 
 #### Image Captioning
-- Todo
+- \[[ISPP 2023](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12707/127070W/Image-caption-generation-based-on-object-detection-and-knowledge-enhancement/10.1117/12.2680966.short)\] Image caption generation based on object detection and knowledge enhancement.
+- \[[arXiv 2022](https://arxiv.org/abs/2210.04806)\] Generating image captions with external encyclopedic knowledge.
+- \[[PR Lett. 2021](https://www.sciencedirect.com/science/article/pii/S0167865521000040)\] Image captioning with transformer and knowledge graph.
+- \[[arXiv 2021](https://arxiv.org/abs/2107.11970)\] Boosting Entity-aware Image Captioning with Multi-modal Knowledge Graph.
+- \[[arXiv 2020](https://arxiv.org/abs/2007.11690)\] Integrating Image Captioning with Rule-based Entity Masking.
+- \[[AAAI 2020](https://arxiv.org/abs/2002.08277)\] When Radiology Report Generation Meets Knowledge Graph.
+- \[[CIKM 2020](https://dl.acm.org/doi/abs/10.1145/3340531.3411948)\] Image Captioning with Internal and External Knowledge.
+- \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6731)\] Joint Commonsense and Relation Reasoning for Image and Video Captioning.
+- \[[arXiv 2019](https://arxiv.org/abs/1906.01290)\] Relational Reasoning using Prior Knowledge for Visual Captioning.
+- \[[WACV 2019](https://arxiv.org/abs/1901.08942)\] Improving Image Captioning by Leveraging Knowledge Graphs.
+- \[[TMM 2019](https://ieeexplore.ieee.org/abstract/document/8630068/)\] Know More Say Less: Image Captioning Based on Scene Graphs.
+
+- \[[EMNLP 2018](https://arxiv.org/abs/1804.07889)\] Entity-aware Image Caption Generation.
+- \[[arXiv 2015](https://arxiv.org/abs/1511.03292)\] From Images to Sentences through Scene Description Graphs using Commonsense Reasoning and Knowledge.
+
   
 #### Visual Storytelling
-- Todo
+- \[[TPAMI 2023](https://arxiv.org/abs/2203.05346)\] Knowledge-Enriched Attention Network With Group-Wise Semantic for Visual Storytelling.
+- \[[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16410)\] Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning.
+- \[[ACL 2021](https://arxiv.org/abs/2105.06950)\] Plot and Rework: Modeling Storylines for Visual Storytelling.
+- \[[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16410)\] Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning.
+- \[[AAAI 2021](https://arxiv.org/abs/2102.02963)\] Commonsense Knowledge Aware Concept Selection For Diverse and Informative Visual Storytelling.
+- \[[AAAI 2020](https://arxiv.org/abs/1912.01496)\] Knowledge-Enriched Visual Storytelling.
+- \[[IJCAI 2019](https://www.ijcai.org/Proceedings/2019/0744.pdf)\] Knowledgeable Storyteller: A Commonsense-Driven Generative Model for Visual Storytelling.
+
   
 #### Conditional Text-to-Image Generation
-- Todo
+- \[[arXiv 2023](https://arxiv.org/abs/2305.15753)\] T2TD: Text-3D Generation Model based on Prior Knowledge Guidance.
+- \[[Pattern Recognition Letters 2023](https://www.sciencedirect.com/science/article/pii/S0167865523003501)\] Prior knowledge guided text to image generation.
+- \[[TCSVT 2022](https://ieeexplore.ieee.org/abstract/document/9656731/)\] RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis From Constrained Prior Knowledge.
+- \[[CSAE 2021](https://dl.acm.org/doi/abs/10.1145/3487075.3487155)\] Enriching Attributes from Knowledge Graph for Fine-grained Text-to-Image Synthesis.
+- \[[ISCID 2021](https://ieeexplore.ieee.org/abstract/document/9679242/)\] KnHiGAN: Knowledge-enhanced Hierarchical Generative Adversarial Network for Fine-grained Text-to-Image Synthesis.
+- \[[CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_RiFeGAN_Rich_Feature_Generation_for_Text-to-Image_Synthesis_From_Prior_Knowledge_CVPR_2020_paper.html)\] RiFeGAN: Rich Feature Generation for Text-to-Image Synthesis From Prior Knowledge.
+- \[[NeurIPS 2019](https://proceedings.neurips.cc/paper_files/paper/2019/hash/d18f655c3fce66ca401d5f38b48c89af-Abstract.html)\] Learn, Imagine and Create: Text-to-Image Generation from Prior Knowledge.
+
   
 #### Scene Graph Generation
-- Todo
+- \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612249)\] Prior Knowledge-driven Dynamic Scene Graph Generation with Causal Inference.
+- \[[WACV 2023](https://openaccess.thecvf.com/content/WACV2023/html/Chen_More_Knowledge_Less_Bias_Unbiasing_Scene_Graph_Generation_With_Explicit_WACV_2023_paper.html)\] More Knowledge, Less Bias: Unbiasing Scene Graph Generation with Explicit Ontological Adjustment.
+- \[[ICME 2022](https://ieeexplore.ieee.org/abstract/document/9859944/)\] Zero-Shot Scene Graph Generation with Knowledge Graph Completion.
+- \[[ESWC 2022](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_6)\] Expressive Scene Graph Generation Using Commonsense Knowledge Infusion for Visual Understanding and Reasoning.
+- \[[IJCAI 2020](https://arxiv.org/abs/2006.07585)\] Learning from the Scene and Borrowing from the Rich: Tackling the Long Tail in Scene Graph Generation.
+- \[[ECCV 2020](https://arxiv.org/abs/2006.09623)\] Learning Visual Commonsense for Robust Scene Graph Generation.
+- \[[ECCV 2020](https://arxiv.org/abs/2001.02314)\] Bridging Knowledge Graphs to Generate Scene Graphs.
+- \[[CVPR 2019](https://arxiv.org/abs/1904.00560)\] Scene Graph Generation With External Knowledge and Image Reconstruction.
+- \[[CVPR 2019](https://arxiv.org/abs/1903.03326)\] Knowledge-Embedded Routing Network for Scene Graph Generation.
+- \[[IJCAI 2018](https://www.ijcai.org/Proceedings/2018/0132.pdf)\] Representation Learning for Scene Graph Completion via Jointly Structural and Visual Embedding.
+- \[[CVPR 2018](https://arxiv.org/abs/1711.06640)\] Neural Motifs: Scene Graph Parsing With Global Context.
+
   
 ### Retrieval Tasks
 <details>
