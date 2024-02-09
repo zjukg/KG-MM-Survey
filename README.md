@@ -235,7 +235,6 @@
 - \[[arXiv 2019](https://arxiv.org/abs/1906.01290)\] Relational Reasoning using Prior Knowledge for Visual Captioning.
 - \[[WACV 2019](https://arxiv.org/abs/1901.08942)\] Improving Image Captioning by Leveraging Knowledge Graphs.
 - \[[TMM 2019](https://ieeexplore.ieee.org/abstract/document/8630068/)\] Know More Say Less: Image Captioning Based on Scene Graphs.
-
 - \[[EMNLP 2018](https://arxiv.org/abs/1804.07889)\] Entity-aware Image Caption Generation.
 - \[[arXiv 2015](https://arxiv.org/abs/1511.03292)\] From Images to Sentences through Scene Description Graphs using Commonsense Reasoning and Knowledge.
 
