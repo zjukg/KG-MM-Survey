@@ -282,19 +282,38 @@
 </details>
 
 #### Cross-Modal Retrieval
-- Todo
+- \[[WSDM 2023](https://dl.acm.org/doi/abs/10.1145/3539597.3570481)\] AGREE: Aligning Cross-Modal Entities for Image-Text Retrieval Upon Vision-Language Pre-trained Models.
+- \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3613786)\] External Knowledge Dynamic Modeling for Image-text Retrieval.
+- \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3613786)\] External Knowledge Dynamic Modeling for Image-text Retrieval.
+- \[[TOMCCAP 2023](https://dl.acm.org/doi/abs/10.1145/3580501)\] MKVSE: Multimodal Knowledge Enhanced Visual-semantic Embedding for Image-text Retrieval.
+- \[[TPAMI 2023](https://arxiv.org/abs/2206.08842)\] Entity-Graph Enhanced Cross-Modal Pretraining for Instance-Level Product Retrieval.
+- \[[TMM 2023](https://ieeexplore.ieee.org/abstract/document/10169896/)\] Commonsense-Guided Semantic and Relational Consistencies for Image-Text Retrieval.
+- \[[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3379ce104189b72d5f7baaa03ae81329-Abstract-Conference.html)\] MACK: Multimodal Aligned Conceptual Knowledge for Unpaired Image-text Matching.
+- \[[ECCV 2022](https://arxiv.org/abs/2208.09843)\] CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval.
+- \[[ECCV 2020](https://arxiv.org/abs/2007.08883)\] Consensus-Aware Visual-Semantic Embedding for Image-Text Matching.
+- \[[IJCAI 2019](https://www.ijcai.org/proceedings/2019/0720.pdf)\] Knowledge Aware Semantic Concept Expansion for Image-Text Matching.
+
   
 #### Visual Referring Expressions & Grounding
-- Todo
+- \[[CVPR 2023](https://arxiv.org/abs/2307.11558)\] Advancing Visual Grounding with Scene Knowledge: Benchmark and Method.
+- \[[ACL 2023](https://aclanthology.org/2023.findings-acl.557/)\] Segment-Level and Category-Oriented Network for Knowledge-Based Referring Expression Comprehension.
+- \[[EACL 2023](https://arxiv.org/abs/2302.09027)\] CK-Transformer: Commonsense Knowledge Enhanced Transformers for Referring Expression Comprehension.
+- \[[AAAI 2022](https://ojs.aaai.org/index.php/AAAI/article/view/20123)\] Improving Zero-Shot Phrase Grounding via Reasoning on External Knowledge and Spatial Relations.
+- \[[ACM MM 2020](https://arxiv.org/abs/2006.01629)\] Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge.
+- \[[CVPR 2018](https://arxiv.org/abs/1803.03879)\] Knowledge Aided Consistency for Weakly Supervised Phrase Grounding.
+
   
-### KG-aware Mutli-modal Pre-training
-- Todo
-  
+### KG-aware Mutli-modal Pre-training  
 #### Structure Knowledge aware Pre-training
-- Todo
+- \[[AAAI 2024](https://arxiv.org/abs/2305.06152)\] Structure-CLIP: Enhance Multi-modal Language Representations with Structure Knowledge.
+- \[[ACM MM 2021](https://arxiv.org/abs/2108.07073)\] ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration.
+- \[[ACL 2021](https://arxiv.org/abs/2101.00419)\] KM-BART: Knowledge Enhanced Multimodal BART for Visual Commonsense Generation.
+- \[[AAAI 2021](https://arxiv.org/abs/2006.16934)\] ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs.
   
 #### Knowledge Graph aware Pre-training
-- Todo
+- \[[WWW 2023](https://arxiv.org/abs/2303.03922)\] Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer.
+- \[[CVPR 2023](https://arxiv.org/abs/2211.16504)\] Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles.
+- \[[ACM MM 2022](https://arxiv.org/abs/2209.07118)\] Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge.
   
 ---
 
@@ -616,13 +635,20 @@
 
 ### 🔖 Contact
 
-> 📫 How to reach me: zhuo.chen@zju.edu.cn 
+> 📫 zhuo.chen@zju.edu.cn 
 
 
 ### 🤝 Cite:
 If this Repo is helpful to you, please consider citing our paper. We would greatly appreciate it :)
 ```bigquery
-TODO
+@misc{chen2024knowledge,
+      title={Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey}, 
+      author={Zhuo Chen and Yichi Zhang and Yin Fang and Yuxia Geng and Lingbing Guo and Xiang Chen and Qian Li and Wen Zhang and Jiaoyan Chen and Yushan Zhu and Jiaqi Li and Xiaoze Liu and Jeff Z. Pan and Ningyu Zhang and Huajun Chen},
+      year={2024},
+      eprint={2402.05391},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
 ```
 
 ![Star History Chart](https://api.star-history.com/svg?repos=zjukg/KG-MM-Survey&type=Date)
