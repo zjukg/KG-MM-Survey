@@ -323,6 +323,13 @@
 ![MMKGOnto](figures/mmkgonto.jpg)
 </details>
 
+<details>
+   <summary>👈 🔎 Taxonomy </summary>
+<div align="center">
+    <img src="figures/mmkgtask.jpg" width="90%" height="auto" />
+</div>
+</details>
+
 ### MMKG Resources
 
 #### Public MMKGs
@@ -367,12 +374,6 @@
 - \[[NAACL 2016](https://aclanthology.org/N16-1023.pdf)\] Stating the Obvious: Extracting Visual Common Sense Knowledge.
 - \[[CVPR 2015](http://openaccess.thecvf.com/content_cvpr_2015/html/Johnson_Image_Retrieval_Using_2015_CVPR_paper.html)\] Image retrieval using scene graphs.
 - \[[CVPR 2014](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Chen_Enriching_Visual_Knowledge_2014_CVPR_paper.html)\] Enriching Visual Knowledge Bases via Object Discovery and Segmentation.
-
-
-
-
-
-#### Task-specific MMKG
 
 ### MMKG Acquisition
 <details>
@@ -604,6 +605,13 @@
 - \[[IJCAI 2020](https://xuanlin1991.github.io/files/publications/ijcai20.pdf)\] KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction.
 
 #### Industry Application
+<details>
+   <summary>👈 🔎 Case </summary>
+<div align="center">
+    <img src="figures/mmkg4indus.jpg" width="50%" height="auto" />
+</div>
+</details>
+
 - \[[PRCV 2023](https://dl.acm.org/doi/abs/10.1145/3503161.3548273)\] Enhancing Recommender System with Multi-modal Knowledge Graph.
 - \[[ACL 2023](https://aclanthology.org/2023.acl-industry.16/)\] FashionKLIP: Enhancing E-Commerce Image-Text Retrieval with Fashion Multi-Modal Conceptual Knowledge Graph.
 - \[[ACM MM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548273)\] Cross-modal Knowledge Graph Contrastive Learning for Machine Learning Method Recommendation.
