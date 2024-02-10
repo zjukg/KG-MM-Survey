@@ -183,7 +183,7 @@
 <details>
     <summary>👈 🔎 Benchmarks </summary>
 <div align="center">
-    <img src="figures/imgctab.jpg" width="40%" height="auto" />
+    <img src="figures/imgctab.jpg" width="45%" height="auto" />
 </div>
 </details>
 
@@ -219,7 +219,7 @@
 <details>
    <summary>👈 🔎 Case </summary>
 <div align="center">
-    <img src="figures/VGG.jpg" width="40%" height="auto" />
+    <img src="figures/VGG.jpg" width="45%" height="auto" />
 </div>
 </details>
 
@@ -277,7 +277,7 @@
 <details>
    <summary>👈 🔎 Case </summary>
 <div align="center">
-    <img src="figures/CMR.jpg" width="40%" height="auto" />
+    <img src="figures/CMR.jpg" width="50%" height="auto" />
 </div>
 </details>
 
@@ -387,7 +387,7 @@
 <details>
     <summary>👈 🔎 Benchmarks </summary>
 <div align="center">
-    <img src="figures/mnertab.jpg" width="40%" height="auto" />
+    <img src="figures/mnertab.jpg" width="45%" height="auto" />
 </div>
 </details>
 
@@ -430,7 +430,7 @@
 <details>
     <summary>👈 🔎 Benchmarks </summary>
 <div align="center">
-    <img src="figures/mmretab.jpg" width="40%" height="auto" />
+    <img src="figures/mmretab.jpg" width="45%" height="auto" />
 </div>
 </details>
 
@@ -451,7 +451,7 @@
 <details>
     <summary>👈 🔎 Benchmarks </summary>
 <div align="center">
-    <img src="figures/mmeetab.jpg" width="40%" height="auto" />
+    <img src="figures/mmeetab.jpg" width="45%" height="auto" />
 </div>
 </details>
 
@@ -475,7 +475,7 @@
 <details>
     <summary>👈 🔎 Benchmarks </summary>
 <div align="center">
-    <img src="figures/mmeatab.jpg" width="40%" height="auto" />
+    <img src="figures/mmeatab.jpg" width="45%" height="auto" />
 </div>
 </details>
 
@@ -505,7 +505,7 @@
 <details>
     <summary>👈 🔎 Benchmarks </summary>
 <div align="center">
-    <img src="figures/mmeltab.jpg" width="40%" height="auto" />
+    <img src="figures/mmeltab.jpg" width="45%" height="auto" />
 </div>
 </details>
 
@@ -531,7 +531,7 @@
 <details>
     <summary>👈 🔎 Benchmarks </summary>
 <div align="center">
-    <img src="figures/mkgctab.jpg" width="40%" height="auto" />
+    <img src="figures/mkgctab.jpg" width="45%" height="auto" />
 </div>
 </details>
 
@@ -566,7 +566,7 @@
 <details>
    <summary>👈 🔎 Case </summary>
 <div align="center">
-    <img src="figures/mmkg4mm.jpg" width="40%" height="auto" />
+    <img src="figures/mmkg4mm.jpg" width="50%" height="auto" />
 </div>
 </details>
 
