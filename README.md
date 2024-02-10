@@ -284,7 +284,6 @@
 #### Cross-Modal Retrieval
 - \[[WSDM 2023](https://dl.acm.org/doi/abs/10.1145/3539597.3570481)\] AGREE: Aligning Cross-Modal Entities for Image-Text Retrieval Upon Vision-Language Pre-trained Models.
 - \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3613786)\] External Knowledge Dynamic Modeling for Image-text Retrieval.
-- \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3613786)\] External Knowledge Dynamic Modeling for Image-text Retrieval.
 - \[[TOMCCAP 2023](https://dl.acm.org/doi/abs/10.1145/3580501)\] MKVSE: Multimodal Knowledge Enhanced Visual-semantic Embedding for Image-text Retrieval.
 - \[[TPAMI 2023](https://arxiv.org/abs/2206.08842)\] Entity-Graph Enhanced Cross-Modal Pretraining for Instance-Level Product Retrieval.
 - \[[TMM 2023](https://ieeexplore.ieee.org/abstract/document/10169896/)\] Commonsense-Guided Semantic and Relational Consistencies for Image-Text Retrieval.
@@ -479,7 +478,7 @@
 </div>
 </details>
 
-- \[[ICLR 2024](https://arxiv.org/abs/2305.14651)\] Revisit and Outstrip Entity Alignment: {A} Perspective of Generative Models.
+- \[[ICLR 2024](https://arxiv.org/abs/2305.14651)\] Revisit and Outstrip Entity Alignment: A Perspective of Generative Models.
 - \[[arXiv 2024](https://arxiv.org/abs/2401.17859)\] Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment.
 - \[[EMNLP 2023](https://arxiv.org/abs/2310.06365)\] Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment.
 - \[[arXiv 2023](https://arxiv.org/abs/2310.05364)\] Universal Multi-modal Entity Alignment via Iteratively Fusing Modality Similarity Paths.
