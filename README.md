@@ -648,13 +648,26 @@
 ### 🤝 Cite:
 If this Repo is helpful to you, please consider citing our paper. We would greatly appreciate it :)
 ```bigquery
-@misc{chen2024knowledge,
-      title={Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey}, 
-      author={Zhuo Chen and Yichi Zhang and Yin Fang and Yuxia Geng and Lingbing Guo and Xiang Chen and Qian Li and Wen Zhang and Jiaoyan Chen and Yushan Zhu and Jiaqi Li and Xiaoze Liu and Jeff Z. Pan and Ningyu Zhang and Huajun Chen},
-      year={2024},
-      eprint={2402.05391},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{chen2024knowledge,
+  author       = {Zhuo Chen and
+                  Yichi Zhang and
+                  Yin Fang and
+                  Yuxia Geng and
+                  Lingbing Guo and
+                  Xiang Chen and
+                  Qian Li and
+                  Wen Zhang and
+                  Jiaoyan Chen and
+                  Yushan Zhu and
+                  Jiaqi Li and
+                  Xiaoze Liu and
+                  Jeff Z. Pan and
+                  Ningyu Zhang and
+                  Huajun Chen},
+  title        = {Knowledge Graphs Meet Multi-Modal Learning: {A} Comprehensive Survey},
+  journal      = {CoRR},
+  volume       = {abs/2402.05391},
+  year         = {2024}
 }
 ```
 
