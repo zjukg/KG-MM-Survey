@@ -91,6 +91,7 @@
 ![VQA](figures/vqatab.jpg)
 </details>
 
+- \[[arXiv 2024](https://arxiv.org/abs/2402.12728)\] Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering.
 - \[[arXiv 2023](https://arxiv.org/abs/2312.12723)\] Multi-Clue Reasoning with Memory Augmentation for Knowledge-based Visual Question Answering.
 - \[[arXiv 2023](https://arxiv.org/abs/2310.08148)\] Open-Set Knowledge-Based Visual Question Answering with Inference Paths.
 - \[[arXiv 2023](https://arxiv.org/abs/2308.15851)\] Prompting Vision Language Model with Knowledge from Large Language Model for Knowledge-Based VQA.
