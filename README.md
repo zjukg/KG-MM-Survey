@@ -536,7 +536,7 @@
 </div>
 </details>
 
-- \[[COLING 2023](https://arxiv.org/abs/2402.15444/)\] Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion.
+- \[[COLING 2024](https://arxiv.org/abs/2402.15444/)\] Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion.
 - \[[EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.488/)\] VISTA: Visual-Textual Knowledge Graph Representation Learning.
 - \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612266)\] TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio.
 - \[[TOMCCAP 2023](https://dl.acm.org/doi/abs/10.1145/3545573)\] Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion.
