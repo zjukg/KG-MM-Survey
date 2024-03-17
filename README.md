@@ -480,6 +480,9 @@
 </div>
 </details>
 
+- \[[arXiv 2024](https://arxiv.org/abs/2403.06832)\] The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework.
+- \[[arXiv 2024](https://arxiv.org/abs/2403.01203)\] Pseudo-Label Calibration Semi-supervised Multi-Modal Entity Alignment.
+- \[[arXiv 2024](https://arxiv.org/abs/2402.11000)\] ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment.
 - \[[ICLR 2024](https://arxiv.org/abs/2305.14651)\] Revisit and Outstrip Entity Alignment: A Perspective of Generative Models.
 - \[[arXiv 2024](https://arxiv.org/abs/2401.17859)\] Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment.
 - \[[EMNLP 2023](https://arxiv.org/abs/2310.06365)\] Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment.
@@ -536,6 +539,7 @@
 </div>
 </details>
 
+- \[[arXiv 2024](https://arxiv.org/abs/2403.06832)\] The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework.
 - \[[COLING 2024](https://arxiv.org/abs/2402.15444/)\] Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion.
 - \[[EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.488/)\] VISTA: Visual-Textual Knowledge Graph Representation Learning.
 - \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612266)\] TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio.
