@@ -304,6 +304,7 @@
 </details>
 
 #### Cross-Modal Retrieval
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29280)\] Self-Supervised Multi-Modal Knowledge Graph Contrastive Hashing for Cross-Modal Search.
 - \[[WSDM 2023](https://dl.acm.org/doi/abs/10.1145/3539597.3570481)\] AGREE: Aligning Cross-Modal Entities for Image-Text Retrieval Upon Vision-Language Pre-trained Models.
 - \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3613786)\] External Knowledge Dynamic Modeling for Image-text Retrieval.
 - \[[TOMCCAP 2023](https://dl.acm.org/doi/abs/10.1145/3580501)\] MKVSE: Multimodal Knowledge Enhanced Visual-semantic Embedding for Image-text Retrieval.
@@ -316,6 +317,7 @@
 
   
 #### Visual Referring Expressions & Grounding
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28223)\] Augmented Commonsense Knowledge for Remote Object Grounding.
 - \[[CVPR 2023](https://arxiv.org/abs/2307.11558)\] Advancing Visual Grounding with Scene Knowledge: Benchmark and Method.
 - \[[ACL 2023](https://aclanthology.org/2023.findings-acl.557/)\] Segment-Level and Category-Oriented Network for Knowledge-Based Referring Expression Comprehension.
 - \[[EACL 2023](https://arxiv.org/abs/2302.09027)\] CK-Transformer: Commonsense Knowledge Enhanced Transformers for Referring Expression Comprehension.
@@ -326,6 +328,7 @@
   
 ### KG-aware Mutli-modal Pre-training  
 #### Structure Knowledge aware Pre-training
+
 - \[[AAAI 2024](https://arxiv.org/abs/2305.06152)\] Structure-CLIP: Enhance Multi-modal Language Representations with Structure Knowledge.
 - \[[ACM MM 2021](https://arxiv.org/abs/2108.07073)\] ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration.
 - \[[ACL 2021](https://arxiv.org/abs/2101.00419)\] KM-BART: Knowledge Enhanced Multimodal BART for Visual Commonsense Generation.
@@ -362,6 +365,7 @@
 ![MMKG](figures/mmkgtab.jpg)
 </details>
 
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29828)\] Beyond Entities: A Large-Scale Multi-Modal Knowledge Graph with Triplet Fact Grounding.
 - \[[arXiv 2023](https://arxiv.org/abs/2312.10417)\] M2ConceptBase: A Fine-grained Aligned Multi-modal Conceptual Knowledge Base.
 - \[[arXiv 2023](https://arxiv.org/abs/2311.03783)\] Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI.
 - \[[EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.488/)\] VISTA: Visual-Textual Knowledge Graph Representation Learning.
@@ -413,6 +417,7 @@
 </div>
 </details>
 
+- \[[arXiv 2024](https://arxiv.org/abs/2402.09989)\] LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition.
 - \[[arXiv 2023](https://arxiv.org/abs/2305.08372)\] A Novel Framework for Multimodal Named Entity Recognition with Multi-level Alignments.
 - \[[ACM MM 2023](https://arxiv.org/abs/2310.16822)\] Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction.
 - \[[EMNLP 2023](https://arxiv.org/abs/2305.12212)\] Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge.
@@ -459,7 +464,7 @@
 - \[[ACM MM 2023](https://arxiv.org/abs/2310.16822)\] Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction.
 - \[[EMNLP 2023](https://arxiv.org/abs/2305.13805)\] Towards Zero-shot Relation Extraction in Web Mining: A Multimodal Approach with Relative XML Path.
 - \[[ACL 2023](https://arxiv.org/abs/2305.16166)\] Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis.
-- \[[arXiv 2023](https://arxiv.org/abs/2304.02328)\] Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck.
+- \[[TASLP 2023](https://ieeexplore.ieee.org/abstract/document/10413604/)\] Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck.
 - \[[ACL 2023](https://arxiv.org/abs/2306.11020)\] Dual-Gated Fusion with Prefix-Tuning for Multi-Modal Relation Extraction.
 - \[[ACL 2023](https://arxiv.org/abs/2305.11719)\] Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling.
 - \[[AAAI 2023 (Student Abstract)](https://arxiv.org/abs/2211.07504)\] On Analyzing the Role of Image for Visual-Enhanced Relation Extraction.
@@ -485,6 +490,8 @@
 
 
  Video-Text:
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29891)\] Video Event Extraction with Multi-View Interaction Knowledge Distillation.
+- \[[AAAU 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29718)\] Beyond Grounding: Extracting Fine-Grained Event Hierarchies across Modalities.
 - \[[FUSION 2023](https://ieeexplore.ieee.org/abstract/document/10224213/)\] Few-shot Domain-Adaptative Visually-fused Event Detection from Text.
 - \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.103/)\] Three Stream Based Multi-level Event Contrastive Learning for Text-Video Event Extraction.
 - \[[DASFAA 2023](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_51)\] Cross-Modal Contrastive Learning for Event Extraction.
@@ -534,6 +541,7 @@
 </div>
 </details>
 
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29867)\] A dual-way enhanced framework from text matching point of view for multimodal entity linking.
 - \[[arXiv 2023](https://arxiv.org/abs/2312.11816)\] A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking.
 - \[[arXiv 2023](https://arxiv.org/abs/2306.12725)\] Generative Multimodal Entity Linking.
 - \[[ACL 2023](https://arxiv.org/abs/2305.17337)\] Benchmarking Diverse-Modal Entity Linking with Generative Models.
@@ -561,6 +569,7 @@
 </details>
 
 - \[[arXiv 2024](https://arxiv.org/abs/2403.06832)\] The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework.
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28744)\] LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation.
 - \[[COLING 2024](https://arxiv.org/abs/2402.15444/)\] Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion.
 - \[[EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.488/)\] VISTA: Visual-Textual Knowledge Graph Representation Learning.
 - \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612266)\] TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio.
