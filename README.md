@@ -91,7 +91,19 @@
 ![VQA](figures/vqatab.jpg)
 </details>
 
+- \[[arXiv 2024](https://arxiv.org/abs/2403.10037)\] Knowledge Condensation and Reasoning for Knowledge-based VQA.
+- \[[arXiv 2024](https://arxiv.org/abs/2402.17213)\] VCD: Knowledge Base Guided Visual Commonsense Discovery in Images.
+- \[[arXiv 2024](https://arxiv.org/abs/2402.13561)\] Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment.
 - \[[arXiv 2024](https://arxiv.org/abs/2402.12728)\] Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering.
+- \[[arXiv 2024](https://arxiv.org/abs/2402.11058)\] II-MMR: Identifying and Improving Multi-modal Multi-hop Reasoning in Visual Question Answering.
+- \[[arXiv 2024](https://arxiv.org/abs/2402.02541)\] Knowledge Generation for Zero-shot Knowledge-based VQA.
+- \[[arXiv 2024](https://arxiv.org/abs/2402.02503)\] GeReA: Question-Aware Prompt Captions for Knowledge-based Visual Question Answering.
+- \[[arXiv 2024](https://arxiv.org/abs/2401.10005)\] Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation.
+- \[[AAAI 2024](https://arxiv.org/abs/2401.06443)\] BOK-VQA: Bilingual outside Knowledge-Based Visual Question Answering via Graph Representation Pretraining.
+- \[[arXiv 2024](https://arxiv.org/abs/2401.05736)\] Cross-modal Retrieval for Knowledge-based Visual Question Answering.
+- \[[TMM 2024](https://ieeexplore.ieee.org/abstract/document/10404060)\] Learning to Supervise Knowledge Retrieval over a Tree Structure for Visual Question Answering.
+- \[[MTA 2024](https://link.springer.com/article/10.1007/s11042-023-16151-w)\] Hierarchical Attention Networks for Fact-based Visual Question Answering.
+- \[[KAIS 2024](https://link.springer.com/article/10.1007/s10115-023-02028-9)\] Knowledge enhancement and scene understanding for knowledge-based visual question answering.
 - \[[arXiv 2023](https://arxiv.org/abs/2312.12723)\] Multi-Clue Reasoning with Memory Augmentation for Knowledge-based Visual Question Answering.
 - \[[arXiv 2023](https://arxiv.org/abs/2310.08148)\] Open-Set Knowledge-Based Visual Question Answering with Inference Paths.
 - \[[arXiv 2023](https://arxiv.org/abs/2308.15851)\] Prompting Vision Language Model with Knowledge from Large Language Model for Knowledge-Based VQA.
@@ -152,6 +164,7 @@
 
 
 #### Visual Question Generation
+- \[[arXiv 2024](https://arxiv.org/abs/2402.12846)\] ConVQG: Contrastive Visual Question Generation with Multimodal Guidance.
 - \[[ICTIR 2023](https://arxiv.org/abs/2306.16478)\] Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering.
 - \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612536)\] Deconfounded Visual Question Generation with Causal Inference.
 - \[[WACV 2023](https://arxiv.org/abs/2203.07890)\] K-VQG: Knowledge-aware Visual Question Generation for Common-sense Acquisition.
@@ -159,6 +172,7 @@
 
   
 #### Visual Dialog
+- \[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/html/Abdessaied_VD-GR_Boosting_Visual_Dialog_With_Cascaded_Spatial-Temporal_Multi-Modal_Graphs_WACV_2024_paper.html)\] VD-GR: Boosting Visual Dialog with Cascaded Spatial-Temporal Multi-Modal GRaphs.
 - \[[ICMR 2023](https://dl.acm.org/doi/abs/10.1145/3591106.3592272)\] Knowledge-Aware Causal Inference Network for Visual Dialog.
 - \[[TCSVT 2023](https://ieeexplore.ieee.org/abstract/document/9893870/)\] Heterogeneous Knowledge Network for Visual Dialog.
 - \[[TMM 2023](https://ieeexplore.ieee.org/abstract/document/10147343/)\] Counterfactual Visual Dialog: Robust Commonsense Knowledge Learning from Unbiased Training.
@@ -206,6 +220,7 @@
 
 
 #### Fake News Detection
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29618)\] Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection.
 - \[[ADMA 2023](https://link.springer.com/chapter/10.1007/978-3-031-46661-8_24)\] EmoKnow: Emotion- and Knowledge-Oriented Model for COVID-19 Fake News Detection.
 - \[[TKDE 2023](https://arxiv.org/abs/2306.02137)\] Inconsistent Matters: A Knowledge-Guided Dual-Consistency Network for Multi-Modal Rumor Detection.
 - \[[TOMCCAP 2021](https://dl.acm.org/doi/abs/10.1145/3451215)\] Knowledge-aware Multi-modal Adaptive Graph Convolutional Networks for Fake News Detection.
@@ -225,6 +240,7 @@
 </details>
 
 #### Image Captioning
+- \[[TMM 2024](https://dl.acm.org/doi/abs/10.1145/3638558)\] Exploring Visual Relationships via Transformer-based Graphs for Enhanced Image Captioning.
 - \[[ISPP 2023](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12707/127070W/Image-caption-generation-based-on-object-detection-and-knowledge-enhancement/10.1117/12.2680966.short)\] Image caption generation based on object detection and knowledge enhancement.
 - \[[arXiv 2022](https://arxiv.org/abs/2210.04806)\] Generating image captions with external encyclopedic knowledge.
 - \[[PR Lett. 2021](https://www.sciencedirect.com/science/article/pii/S0167865521000040)\] Image captioning with transformer and knowledge graph.
@@ -241,6 +257,7 @@
 
   
 #### Visual Storytelling
+- \[[arXiv 2024](https://arxiv.org/abs/2402.00319)\] SCO-VIST: Social Interaction Commonsense Knowledge-based Visual Storytelling.
 - \[[TPAMI 2023](https://arxiv.org/abs/2203.05346)\] Knowledge-Enriched Attention Network With Group-Wise Semantic for Visual Storytelling.
 - \[[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16410)\] Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning.
 - \[[ACL 2021](https://arxiv.org/abs/2105.06950)\] Plot and Rework: Modeling Storylines for Visual Storytelling.
@@ -261,6 +278,10 @@
 
   
 #### Scene Graph Generation
+- \[[arXiv 2024](https://arxiv.org/abs/2403.14121)\] External Knowledge Enhanced 3D Scene Generation from Sketch.
+- \[[arXiv 2024](https://arxiv.org/abs/2401.14626)\] Towards lifelong scene graph generation with knowledge-ware in-context prompt learning.
+- \[[CVPR 2024](https://arxiv.org/abs/2403.12033)\] HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation.
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28155)\] R3CD: Scene Graph to Image Generation with Relation-Aware Compositional Contrastive Control Diffusion.
 - \[[ACM MM 2023](https://dl.acm.org/doi/abs/10.1145/3581783.3612249)\] Prior Knowledge-driven Dynamic Scene Graph Generation with Causal Inference.
 - \[[WACV 2023](https://openaccess.thecvf.com/content/WACV2023/html/Chen_More_Knowledge_Less_Bias_Unbiasing_Scene_Graph_Generation_With_Explicit_WACV_2023_paper.html)\] More Knowledge, Less Bias: Unbiasing Scene Graph Generation with Explicit Ontological Adjustment.
 - \[[ICME 2022](https://ieeexplore.ieee.org/abstract/document/9859944/)\] Zero-Shot Scene Graph Generation with Knowledge Graph Completion.
