@@ -568,6 +568,8 @@
 </div>
 </details>
 
+- \[[arXiv 2024](https://arxiv.org/abs/2404.09468)\] MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion.
+- \[[SIGIR 2024](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171259566.60211714)\] NativE: Multi-modal Knowledge Graph Completion in the Wild.
 - \[[arXiv 2024](https://arxiv.org/abs/2403.06832)\] The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework.
 - \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28744)\] LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation.
 - \[[COLING 2024](https://arxiv.org/abs/2402.15444/)\] Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion.
