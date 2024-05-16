@@ -94,7 +94,7 @@
 - \[[arXiv 2024](https://arxiv.org/abs/2403.10037)\] Knowledge Condensation and Reasoning for Knowledge-based VQA.
 - \[[arXiv 2024](https://arxiv.org/abs/2402.17213)\] VCD: Knowledge Base Guided Visual Commonsense Discovery in Images.
 - \[[arXiv 2024](https://arxiv.org/abs/2402.13561)\] Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment.
-- \[[arXiv 2024](https://arxiv.org/abs/2402.12728)\] Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering.
+- \[[ACL 2024](https://arxiv.org/abs/2402.12728)\] Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering.
 - \[[arXiv 2024](https://arxiv.org/abs/2402.11058)\] II-MMR: Identifying and Improving Multi-modal Multi-hop Reasoning in Visual Question Answering.
 - \[[arXiv 2024](https://arxiv.org/abs/2402.02541)\] Knowledge Generation for Zero-shot Knowledge-based VQA.
 - \[[arXiv 2024](https://arxiv.org/abs/2402.02503)\] GeReA: Question-Aware Prompt Captions for Knowledge-based Visual Question Answering.
