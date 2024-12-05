@@ -38,8 +38,6 @@
 - **`2023-9` Our Paper [Target-Oriented Sentiment Classification with Sequential Cross-Modal Semantic Graph](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_48) [[`Repo`](https://github.com/zjukg/SeqCSG)] has been published by ICANN 2023.**
 </details>
 
-*Todo:*
-1. - [ ] `Finish updating papers`
          
 ## 📜 Content
 
