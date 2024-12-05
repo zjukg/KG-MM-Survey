@@ -21,9 +21,11 @@
 - **`2024-11` Our Paper [Noise-powered Multi-modal Knowledge Graph Representation Framework](https://arxiv.org/abs/2403.06832) [[`Repo`](https://github.com/zjukg/SNAG)] has been accepted by COLING 2025.**
 - **`2024-08` We preprint our Paper [Cross-composition Feature Disentanglement for Compositional Zero-shot Learning](https://arxiv.org/abs/2408.09786).**
 - **`2024-07` Our Paper [NativE: Multi-modal Knowledge Graph Completion in the Wild](https://dl.acm.org/doi/abs/10.1145/3626772.3657800) [[`Repo`](https://github.com/zjukg/NATIVE)] has been published by SIGIR 2024.**
-- **`2024-05` We preprint our Paper [Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2405.16869) [[`Repo`](https://github.com/zjukg/MoMoK)]..**
+- **`2024-05` Our Paper [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/abs/2402.03190) [[`Repo`](https://github.com/zjunlp/EasyDetect)] has been accepted by ACL 2024.**
+- **`2024-05` We preprint our Paper [Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2405.16869) [[`Repo`](https://github.com/zjukg/MoMoK)].**
 - **`2024-04` We preprint our Paper [MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2404.09468) [[`Repo`](https://github.com/zjukg/MyGO)].**
 - **`2024-04` Our Paper [LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion](https://www.ijcai.org/proceedings/2024/0236.pdf) [[`Repo`](https://github.com/xiaoqian19940510/MuKDC)] has been accepted by IJCAI 2024.**
+- **`2024-04` Our Paper [Continual Multimodal Knowledge Graph Construction](https://arxiv.org/abs/2305.08698) [[`Repo`](https://github.com/zjunlp/ContinueMKGC)] has been accepted by IJCAI 2024.**
 - **`2024-03` Our Paper [Structure-CLIP: Towards Scene Graph Knowledge to Enhance Multi-Modal Structured Representations](https://ojs.aaai.org/index.php/AAAI/article/view/28017) [[`Repo`](https://github.com/zjukg/Structure-CLIP)] has been accepted by AAAI 2024.**
 - **`2024-02` Our Paper [Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion](https://arxiv.org/pdf/2402.15444) [[`Repo`](https://github.com/zjukg/AdaMF-MAT)] has been accepted by COLING 2024.**
 - **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391) [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
