@@ -18,7 +18,21 @@
 
 
 ## 🔔 News
-- **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
+- **`2024-11` Our Paper [Noise-powered Multi-modal Knowledge Graph Representation Framework](https://arxiv.org/abs/2403.06832) [[`Repo`](https://github.com/zjukg/SNAG)] has been accepted by COLING 2025.**
+- **`2024-08` We preprint our Paper [Cross-composition Feature Disentanglement for Compositional Zero-shot Learning](https://arxiv.org/abs/2408.09786).**
+- **`2024-07` Our Paper [NativE: Multi-modal Knowledge Graph Completion in the Wild](https://dl.acm.org/doi/abs/10.1145/3626772.3657800) [[`Repo`](https://github.com/zjukg/NATIVE)] has been published by SIGIR 2024.**
+- **`2024-05` We preprint our Paper [Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2405.16869) [[`Repo`](https://github.com/zjukg/MoMoK)]..**
+- **`2024-04` We preprint our Paper [MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2404.09468) [[`Repo`](https://github.com/zjukg/MyGO)].**
+- **`2024-04` Our Paper [LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion](https://www.ijcai.org/proceedings/2024/0236.pdf) [[`Repo`](https://github.com/xiaoqian19940510/MuKDC)] has been accepted by IJCAI 2024.**
+- **`2024-03` Our Paper [Structure-CLIP: Towards Scene Graph Knowledge to Enhance Multi-Modal Structured Representations](https://ojs.aaai.org/index.php/AAAI/article/view/28017) [[`Repo`](https://github.com/zjukg/Structure-CLIP)] has been accepted by AAAI 2024.**
+- **`2024-02` Our Paper [Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion](https://arxiv.org/pdf/2402.15444) [[`Repo`](https://github.com/zjukg/AdaMF-MAT)] has been accepted by COLING 2024.**
+- **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391) [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
+- **`2024-02` We preprint our Paper [ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment](https://arxiv.org/abs/2402.11000) [[`Repo`](https://github.com/lyyf2002/ASGEA)].**
+- **`2024-01` Our paper [Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651) [[Repo](https://github.com/zjukg/GEEA)] is accepted by ICLR 2024 !**
+- **`2023-10` Our paper: [Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210) ! [[`Slide`](https://github.com/zjukg/UMAEA/blob/main/Slide/Chen-ISWC-2023.pdf)] [[Repo](https://github.com/zjukg/UMAEA)]has been published by ISWC 2023 (Best Paper Candidate).**
+- **`2023-10` Our Paper [MACO: A Modality Adversarial and Contrastive Framework for Modality-Missing Multi-modal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_10) [[`Repo`](https://github.com/zjukg/MACO)] has been published by NLPCC 2023 as an Oral Paper.**
+- **`2023-10` Our Paper [MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid](https://dl.acm.org/doi/abs/10.1145/3581783.3611786) [[`Repo`](https://github.com/zjukg/MEAformer)] has been published by ACM MM 2023.**
+- **`2023-9` Our Paper [Target-Oriented Sentiment Classification with Sequential Cross-Modal Semantic Graph](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_48) [[`Repo`](https://github.com/zjukg/SeqCSG)] has been published by ICANN 2023.**
 
 *Todo:*
 1. - [ ] `Finish updating papers`
