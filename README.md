@@ -16,8 +16,9 @@
 </details>
 
 
-
-## 🔔 News
+<details>
+ <summary>👈 🔔 News </summary>
+   
 - **`2024-11` Our Paper [Noise-powered Multi-modal Knowledge Graph Representation Framework](https://arxiv.org/abs/2403.06832) [[`Repo`](https://github.com/zjukg/SNAG)] has been accepted by COLING 2025.**
 - **`2024-08` We preprint our Paper [Cross-composition Feature Disentanglement for Compositional Zero-shot Learning](https://arxiv.org/abs/2408.09786) [[`Repo`](https://anonymous.4open.science/r/DCDA-0BF7)].**
 - **`2024-07` Our Paper [NativE: Multi-modal Knowledge Graph Completion in the Wild](https://dl.acm.org/doi/abs/10.1145/3626772.3657800) [[`Repo`](https://github.com/zjukg/NATIVE)] has been published by SIGIR 2024.**
@@ -35,6 +36,7 @@
 - **`2023-10` Our Paper [MACO: A Modality Adversarial and Contrastive Framework for Modality-Missing Multi-modal Knowledge Graph Completion](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_10) [[`Repo`](https://github.com/zjukg/MACO)] has been published by NLPCC 2023 as an Oral Paper.**
 - **`2023-10` Our Paper [MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid](https://dl.acm.org/doi/abs/10.1145/3581783.3611786) [[`Repo`](https://github.com/zjukg/MEAformer)] has been published by ACM MM 2023.**
 - **`2023-9` Our Paper [Target-Oriented Sentiment Classification with Sequential Cross-Modal Semantic Graph](https://link.springer.com/chapter/10.1007/978-3-031-44216-2_48) [[`Repo`](https://github.com/zjukg/SeqCSG)] has been published by ICANN 2023.**
+</details>
 
 *Todo:*
 1. - [ ] `Finish updating papers`
