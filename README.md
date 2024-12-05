@@ -19,7 +19,7 @@
 
 ## 🔔 News
 - **`2024-11` Our Paper [Noise-powered Multi-modal Knowledge Graph Representation Framework](https://arxiv.org/abs/2403.06832) [[`Repo`](https://github.com/zjukg/SNAG)] has been accepted by COLING 2025.**
-- **`2024-08` We preprint our Paper [Cross-composition Feature Disentanglement for Compositional Zero-shot Learning](https://arxiv.org/abs/2408.09786).**
+- **`2024-08` We preprint our Paper [Cross-composition Feature Disentanglement for Compositional Zero-shot Learning](https://arxiv.org/abs/2408.09786) [[`Repo`](https://anonymous.4open.science/r/DCDA-0BF7)].**
 - **`2024-07` Our Paper [NativE: Multi-modal Knowledge Graph Completion in the Wild](https://dl.acm.org/doi/abs/10.1145/3626772.3657800) [[`Repo`](https://github.com/zjukg/NATIVE)] has been published by SIGIR 2024.**
 - **`2024-05` Our Paper [Unified Hallucination Detection for Multimodal Large Language Models](https://arxiv.org/abs/2402.03190) [[`Repo`](https://github.com/zjunlp/EasyDetect)] has been accepted by ACL 2024.**
 - **`2024-05` We preprint our Paper [Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2405.16869) [[`Repo`](https://github.com/zjukg/MoMoK)].**
