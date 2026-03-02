@@ -638,6 +638,7 @@
 - \[[DASFAA 2021](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_12)\] Multimodal Named Entity Recognition with Image Attributes and Image Knowledge.
 
 #### Reasoning & Generation
+- \[[arXiv 2025](https://arxiv.org/abs/2507.20804)\] MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs.
 - \[[arXiv 2023](https://arxiv.org/abs/2312.10417)\] M2ConceptBase: A Fine-grained Aligned Multi-modal Conceptual Knowledge Base.
 - \[[JIIS 2023](https://link.springer.com/article/10.1007/s10844-023-00812-1)\] Self-supervised opinion summarization with multi-modal knowledge graph.
 - \[[TMM 2023](https://arxiv.org/abs/2107.11970)\] Boosting Entity-aware Image Captioning with Multi-modal Knowledge Graph.
